@@ -1,0 +1,7206 @@
+{
+  "id": "f79032e5-5af2-4cb9-95e5-5ef1476814a3",
+  "language_model": "assemblyai_default",
+  "acoustic_model": "assemblyai_default",
+  "language_code": "en_us",
+  "speech_understanding": null,
+  "translated_texts": null,
+  "status": "completed",
+  "audio_url": "https://cdn.assemblyai.com/upload/4536c61d4b8c982249c80dfa6cf770338579d1d18f0f797f8fe0d8c15344b893/b9164943-a8a8-4cfe-b343-0736e9378e0d",
+  "text": "Welcome! Thanks for coming to see the property. As you can see, this is a 3-bedroom house in a quiet neighborhood, with a spacious living room, modern kitchen, 2 bathrooms, and a small backyard. I like the layout. It feels much bigger than it looked in the pictures. It does, but our main concern is the price. You mentioned \u20b91.2 crore? Yes, the asking price is \u20b91.2 crore. But I'd like you to look at it as more than just a house. This area has developed significantly over the last few years. There are schools, shopping centers, hospitals, and public transport nearby, and a new commercial complex is being developed about 2 kilometers from here. That sounds promising, but property prices don't always increase just because an area is developing. Absolutely, and I wouldn't want you to buy based on promises. What I can tell you is that comparable properties nearby are already selling at higher prices. This house also has a larger plot than many of the newer properties being built. What about the condition of the house? Are there any major repairs needed? Nothing major that I'm aware of. The electrical system was recently checked, the kitchen was renovated 2 years ago, and the roof was inspected last year. Of course, I recommend getting your own inspection before making a final decision. That's good to hear. What about parking? There's covered parking for 2 cars, plus additional street parking for visitors. And if we eventually decide to rent it out? That's another advantage. A 3-bedroom house in this neighborhood could appeal to families or professionals looking for more space. You could live here now and potentially rent it out later. The property gives you flexibility. We're still concerned about \u20b91.2 crore. We were hoping to stay closer to \u20b91.05 crore. I understand. \u20b91.05 crore would be quite a significant reduction. However, if you're serious and can move quickly, I may be able to negotiate with the seller. How much flexibility do you think there is? I believe we could potentially get closer to \u20b91.12 crore, depending on the seller's response. I could also ask whether they would include some of the existing appliances. Suppose we offer \u20b91.1 crore and agree to complete the paperwork quickly. Would you take that to the seller? Absolutely. I can't guarantee they'll accept it, but I can present the offer and explain that you're ready to proceed. Before we make the offer, I'd like to arrange an independent inspection. That's completely reasonable. In fact, I encourage it. If the inspection comes back clean and the seller accepts your offer, You'll have much more confidence in the purchase. Alright. Let's arrange the inspection and make an offer of \u20b91.1 crore. Perfect. I'll contact the seller today. If everything checks out, this could be a very good opportunity for your family. Let's see what the inspection says first. Fair enough. I'll coordinate everything and keep you updated.",
+  "words": [
+    {
+      "text": "Welcome!",
+      "start": 400,
+      "end": 755,
+      "confidence": 0.9748903,
+      "speaker": "A"
+    },
+    {
+      "text": "Thanks",
+      "start": 901,
+      "end": 1063,
+      "confidence": 0.9997559,
+      "speaker": "B"
+    },
+    {
+      "text": "for",
+      "start": 1063,
+      "end": 1144,
+      "confidence": 0.9999963,
+      "speaker": "B"
+    },
+    {
+      "text": "coming",
+      "start": 1160,
+      "end": 1402,
+      "confidence": 0.999997,
+      "speaker": "B"
+    },
+    {
+      "text": "to",
+      "start": 1402,
+      "end": 1499,
+      "confidence": 0.99998593,
+      "speaker": "B"
+    },
+    {
+      "text": "see",
+      "start": 1499,
+      "end": 1710,
+      "confidence": 0.99999607,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 1710,
+      "end": 1807,
+      "confidence": 0.9999608,
+      "speaker": "B"
+    },
+    {
+      "text": "property.",
+      "start": 1807,
+      "end": 2211,
+      "confidence": 0.9996975,
+      "speaker": "B"
+    },
+    {
+      "text": "As",
+      "start": 2761,
+      "end": 2826,
+      "confidence": 0.9997359,
+      "speaker": "B"
+    },
+    {
+      "text": "you",
+      "start": 2842,
+      "end": 2939,
+      "confidence": 0.999998,
+      "speaker": "B"
+    },
+    {
+      "text": "can",
+      "start": 2939,
+      "end": 3101,
+      "confidence": 0.9999988,
+      "speaker": "B"
+    },
+    {
+      "text": "see,",
+      "start": 3101,
+      "end": 3505,
+      "confidence": 0.9999967,
+      "speaker": "B"
+    },
+    {
+      "text": "this",
+      "start": 3974,
+      "end": 4039,
+      "confidence": 0.9999801,
+      "speaker": "B"
+    },
+    {
+      "text": "is",
+      "start": 4152,
+      "end": 4201,
+      "confidence": 0.9999932,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 4298,
+      "end": 4314,
+      "confidence": 0.9999969,
+      "speaker": "B"
+    },
+    {
+      "text": "3-bedroom",
+      "start": 4314,
+      "end": 5010,
+      "confidence": 0.99814516,
+      "speaker": "B"
+    },
+    {
+      "text": "house",
+      "start": 5107,
+      "end": 5511,
+      "confidence": 0.9999738,
+      "speaker": "B"
+    },
+    {
+      "text": "in",
+      "start": 5527,
+      "end": 5608,
+      "confidence": 0.999956,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 5608,
+      "end": 5689,
+      "confidence": 0.9999964,
+      "speaker": "B"
+    },
+    {
+      "text": "quiet",
+      "start": 5689,
+      "end": 6093,
+      "confidence": 0.99999666,
+      "speaker": "B"
+    },
+    {
+      "text": "neighborhood,",
+      "start": 6093,
+      "end": 6627,
+      "confidence": 0.9965183,
+      "speaker": "B"
+    },
+    {
+      "text": "with",
+      "start": 6983,
+      "end": 7080,
+      "confidence": 0.99998784,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 7080,
+      "end": 7145,
+      "confidence": 0.99999464,
+      "speaker": "B"
+    },
+    {
+      "text": "spacious",
+      "start": 7145,
+      "end": 7662,
+      "confidence": 0.9999989,
+      "speaker": "B"
+    },
+    {
+      "text": "living",
+      "start": 7856,
+      "end": 8018,
+      "confidence": 0.99999726,
+      "speaker": "B"
+    },
+    {
+      "text": "room,",
+      "start": 8115,
+      "end": 8309,
+      "confidence": 0.9999947,
+      "speaker": "B"
+    },
+    {
+      "text": "modern",
+      "start": 8665,
+      "end": 8989,
+      "confidence": 0.9998447,
+      "speaker": "B"
+    },
+    {
+      "text": "kitchen,",
+      "start": 9005,
+      "end": 9312,
+      "confidence": 0.9999972,
+      "speaker": "B"
+    },
+    {
+      "text": "2",
+      "start": 9620,
+      "end": 9668,
+      "confidence": 0.99999285,
+      "speaker": "B"
+    },
+    {
+      "text": "bathrooms,",
+      "start": 9733,
+      "end": 10352,
+      "confidence": 0.9999652,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 10710,
+      "end": 10775,
+      "confidence": 0.9999852,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 10791,
+      "end": 10808,
+      "confidence": 0.99999416,
+      "speaker": "B"
+    },
+    {
+      "text": "small",
+      "start": 10808,
+      "end": 11068,
+      "confidence": 0.99999547,
+      "speaker": "B"
+    },
+    {
+      "text": "backyard.",
+      "start": 11117,
+      "end": 11686,
+      "confidence": 0.99994165,
+      "speaker": "B"
+    },
+    {
+      "text": "I",
+      "start": 12321,
+      "end": 12419,
+      "confidence": 0.99963677,
+      "speaker": "A"
+    },
+    {
+      "text": "like",
+      "start": 12419,
+      "end": 12663,
+      "confidence": 0.999979,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 12663,
+      "end": 12761,
+      "confidence": 0.99999607,
+      "speaker": "A"
+    },
+    {
+      "text": "layout.",
+      "start": 12761,
+      "end": 13200,
+      "confidence": 0.9792691,
+      "speaker": "A"
+    },
+    {
+      "text": "It",
+      "start": 13786,
+      "end": 13884,
+      "confidence": 0.99968505,
+      "speaker": "A"
+    },
+    {
+      "text": "feels",
+      "start": 13884,
+      "end": 14176,
+      "confidence": 0.99999213,
+      "speaker": "A"
+    },
+    {
+      "text": "much",
+      "start": 14274,
+      "end": 14421,
+      "confidence": 0.99998224,
+      "speaker": "A"
+    },
+    {
+      "text": "bigger",
+      "start": 14600,
+      "end": 14909,
+      "confidence": 0.9999877,
+      "speaker": "A"
+    },
+    {
+      "text": "than",
+      "start": 14925,
+      "end": 14990,
+      "confidence": 0.99999535,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 15023,
+      "end": 15072,
+      "confidence": 0.9999881,
+      "speaker": "A"
+    },
+    {
+      "text": "looked",
+      "start": 15169,
+      "end": 15365,
+      "confidence": 0.9999732,
+      "speaker": "A"
+    },
+    {
+      "text": "in",
+      "start": 15365,
+      "end": 15430,
+      "confidence": 0.99996054,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 15430,
+      "end": 15511,
+      "confidence": 0.9999883,
+      "speaker": "A"
+    },
+    {
+      "text": "pictures.",
+      "start": 15511,
+      "end": 15967,
+      "confidence": 0.9894247,
+      "speaker": "A"
+    },
+    {
+      "text": "It",
+      "start": 16572,
+      "end": 16652,
+      "confidence": 0.9994723,
+      "speaker": "C"
+    },
+    {
+      "text": "does,",
+      "start": 16652,
+      "end": 16942,
+      "confidence": 0.9960852,
+      "speaker": "C"
+    },
+    {
+      "text": "but",
+      "start": 17280,
+      "end": 17442,
+      "confidence": 0.9999809,
+      "speaker": "C"
+    },
+    {
+      "text": "our",
+      "start": 17442,
+      "end": 17506,
+      "confidence": 0.99995255,
+      "speaker": "C"
+    },
+    {
+      "text": "main",
+      "start": 17538,
+      "end": 17748,
+      "confidence": 0.9999932,
+      "speaker": "C"
+    },
+    {
+      "text": "concern",
+      "start": 17780,
+      "end": 18134,
+      "confidence": 0.99999833,
+      "speaker": "C"
+    },
+    {
+      "text": "is",
+      "start": 18247,
+      "end": 18311,
+      "confidence": 0.9999932,
+      "speaker": "C"
+    },
+    {
+      "text": "the",
+      "start": 18344,
+      "end": 18424,
+      "confidence": 0.9999913,
+      "speaker": "C"
+    },
+    {
+      "text": "price.",
+      "start": 18489,
+      "end": 18779,
+      "confidence": 0.9997955,
+      "speaker": "C"
+    },
+    {
+      "text": "You",
+      "start": 20019,
+      "end": 20083,
+      "confidence": 0.9981856,
+      "speaker": "C"
+    },
+    {
+      "text": "mentioned",
+      "start": 20116,
+      "end": 20583,
+      "confidence": 0.99999297,
+      "speaker": "C"
+    },
+    {
+      "text": "\u20b91.2",
+      "start": 20583,
+      "end": 21324,
+      "confidence": 0.9715312,
+      "speaker": "C"
+    },
+    {
+      "text": "crore?",
+      "start": 21324,
+      "end": 21678,
+      "confidence": 0.9973642,
+      "speaker": "C"
+    },
+    {
+      "text": "Yes,",
+      "start": 23346,
+      "end": 23542,
+      "confidence": 0.98121244,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 24164,
+      "end": 24311,
+      "confidence": 0.9998733,
+      "speaker": "B"
+    },
+    {
+      "text": "asking",
+      "start": 24311,
+      "end": 24622,
+      "confidence": 0.9999914,
+      "speaker": "B"
+    },
+    {
+      "text": "price",
+      "start": 24655,
+      "end": 25097,
+      "confidence": 0.99999726,
+      "speaker": "B"
+    },
+    {
+      "text": "is",
+      "start": 25146,
+      "end": 25244,
+      "confidence": 0.99999106,
+      "speaker": "B"
+    },
+    {
+      "text": "\u20b91.2",
+      "start": 25375,
+      "end": 26030,
+      "confidence": 0.9999921,
+      "speaker": "B"
+    },
+    {
+      "text": "crore.",
+      "start": 26111,
+      "end": 26455,
+      "confidence": 0.9683423,
+      "speaker": "B"
+    },
+    {
+      "text": "But",
+      "start": 27212,
+      "end": 27324,
+      "confidence": 0.886333,
+      "speaker": "B"
+    },
+    {
+      "text": "I'd",
+      "start": 27356,
+      "end": 27420,
+      "confidence": 0.9999058,
+      "speaker": "B"
+    },
+    {
+      "text": "like",
+      "start": 27436,
+      "end": 27597,
+      "confidence": 0.9999962,
+      "speaker": "B"
+    },
+    {
+      "text": "you",
+      "start": 27597,
+      "end": 27693,
+      "confidence": 0.99999654,
+      "speaker": "B"
+    },
+    {
+      "text": "to",
+      "start": 27693,
+      "end": 27774,
+      "confidence": 0.99999785,
+      "speaker": "B"
+    },
+    {
+      "text": "look",
+      "start": 27838,
+      "end": 28014,
+      "confidence": 0.9999801,
+      "speaker": "B"
+    },
+    {
+      "text": "at",
+      "start": 28014,
+      "end": 28175,
+      "confidence": 0.9999962,
+      "speaker": "B"
+    },
+    {
+      "text": "it",
+      "start": 28175,
+      "end": 28239,
+      "confidence": 0.9999962,
+      "speaker": "B"
+    },
+    {
+      "text": "as",
+      "start": 28496,
+      "end": 28625,
+      "confidence": 0.99565506,
+      "speaker": "B"
+    },
+    {
+      "text": "more",
+      "start": 28657,
+      "end": 28849,
+      "confidence": 0.9999888,
+      "speaker": "B"
+    },
+    {
+      "text": "than",
+      "start": 28882,
+      "end": 29026,
+      "confidence": 0.999995,
+      "speaker": "B"
+    },
+    {
+      "text": "just",
+      "start": 29042,
+      "end": 29235,
+      "confidence": 0.999998,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 29299,
+      "end": 29363,
+      "confidence": 0.99999535,
+      "speaker": "B"
+    },
+    {
+      "text": "house.",
+      "start": 29363,
+      "end": 29588,
+      "confidence": 0.999966,
+      "speaker": "B"
+    },
+    {
+      "text": "This",
+      "start": 30262,
+      "end": 30375,
+      "confidence": 0.99978846,
+      "speaker": "B"
+    },
+    {
+      "text": "area",
+      "start": 30503,
+      "end": 30824,
+      "confidence": 0.99999857,
+      "speaker": "B"
+    },
+    {
+      "text": "has",
+      "start": 30824,
+      "end": 30953,
+      "confidence": 0.9999937,
+      "speaker": "B"
+    },
+    {
+      "text": "developed",
+      "start": 30985,
+      "end": 31402,
+      "confidence": 0.99999833,
+      "speaker": "B"
+    },
+    {
+      "text": "significantly",
+      "start": 31402,
+      "end": 32237,
+      "confidence": 0.9999982,
+      "speaker": "B"
+    },
+    {
+      "text": "over",
+      "start": 32494,
+      "end": 32607,
+      "confidence": 0.99998677,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 32607,
+      "end": 32735,
+      "confidence": 0.99998724,
+      "speaker": "B"
+    },
+    {
+      "text": "last",
+      "start": 32751,
+      "end": 33056,
+      "confidence": 0.9999541,
+      "speaker": "B"
+    },
+    {
+      "text": "few",
+      "start": 33056,
+      "end": 33233,
+      "confidence": 0.99999225,
+      "speaker": "B"
+    },
+    {
+      "text": "years.",
+      "start": 33233,
+      "end": 33442,
+      "confidence": 0.99993736,
+      "speaker": "B"
+    },
+    {
+      "text": "There",
+      "start": 34036,
+      "end": 34164,
+      "confidence": 0.9998883,
+      "speaker": "B"
+    },
+    {
+      "text": "are",
+      "start": 34212,
+      "end": 34260,
+      "confidence": 0.9999391,
+      "speaker": "B"
+    },
+    {
+      "text": "schools,",
+      "start": 34277,
+      "end": 34726,
+      "confidence": 0.999997,
+      "speaker": "B"
+    },
+    {
+      "text": "shopping",
+      "start": 35063,
+      "end": 35449,
+      "confidence": 0.99999285,
+      "speaker": "B"
+    },
+    {
+      "text": "centers,",
+      "start": 35481,
+      "end": 35930,
+      "confidence": 0.9961196,
+      "speaker": "B"
+    },
+    {
+      "text": "hospitals,",
+      "start": 36268,
+      "end": 36813,
+      "confidence": 0.9931187,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 37006,
+      "end": 37070,
+      "confidence": 0.99998415,
+      "speaker": "B"
+    },
+    {
+      "text": "public",
+      "start": 37151,
+      "end": 37472,
+      "confidence": 0.9999987,
+      "speaker": "B"
+    },
+    {
+      "text": "transport",
+      "start": 37472,
+      "end": 37970,
+      "confidence": 0.9999745,
+      "speaker": "B"
+    },
+    {
+      "text": "nearby,",
+      "start": 37970,
+      "end": 38323,
+      "confidence": 0.99710435,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 38853,
+      "end": 38917,
+      "confidence": 0.9999231,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 38933,
+      "end": 38949,
+      "confidence": 0.9999875,
+      "speaker": "B"
+    },
+    {
+      "text": "new",
+      "start": 38949,
+      "end": 39110,
+      "confidence": 0.9999857,
+      "speaker": "B"
+    },
+    {
+      "text": "commercial",
+      "start": 39158,
+      "end": 39543,
+      "confidence": 0.99999607,
+      "speaker": "B"
+    },
+    {
+      "text": "complex",
+      "start": 39575,
+      "end": 40153,
+      "confidence": 0.9999975,
+      "speaker": "B"
+    },
+    {
+      "text": "is",
+      "start": 40153,
+      "end": 40234,
+      "confidence": 0.9999491,
+      "speaker": "B"
+    },
+    {
+      "text": "being",
+      "start": 40298,
+      "end": 40442,
+      "confidence": 0.9999969,
+      "speaker": "B"
+    },
+    {
+      "text": "developed",
+      "start": 40539,
+      "end": 41004,
+      "confidence": 0.99999404,
+      "speaker": "B"
+    },
+    {
+      "text": "about",
+      "start": 41004,
+      "end": 41341,
+      "confidence": 0.9999695,
+      "speaker": "B"
+    },
+    {
+      "text": "2",
+      "start": 41341,
+      "end": 41470,
+      "confidence": 0.9999931,
+      "speaker": "B"
+    },
+    {
+      "text": "kilometers",
+      "start": 41502,
+      "end": 42032,
+      "confidence": 0.96960485,
+      "speaker": "B"
+    },
+    {
+      "text": "from",
+      "start": 42128,
+      "end": 42225,
+      "confidence": 0.9999708,
+      "speaker": "B"
+    },
+    {
+      "text": "here.",
+      "start": 42289,
+      "end": 42417,
+      "confidence": 0.9999281,
+      "speaker": "B"
+    },
+    {
+      "text": "That",
+      "start": 43108,
+      "end": 43236,
+      "confidence": 0.9998938,
+      "speaker": "C"
+    },
+    {
+      "text": "sounds",
+      "start": 43284,
+      "end": 43638,
+      "confidence": 0.99998295,
+      "speaker": "C"
+    },
+    {
+      "text": "promising,",
+      "start": 43670,
+      "end": 44119,
+      "confidence": 0.999417,
+      "speaker": "C"
+    },
+    {
+      "text": "but",
+      "start": 44537,
+      "end": 44649,
+      "confidence": 0.9999893,
+      "speaker": "C"
+    },
+    {
+      "text": "property",
+      "start": 44713,
+      "end": 45083,
+      "confidence": 0.9999951,
+      "speaker": "C"
+    },
+    {
+      "text": "prices",
+      "start": 45115,
+      "end": 45532,
+      "confidence": 0.9999907,
+      "speaker": "C"
+    },
+    {
+      "text": "don't",
+      "start": 45596,
+      "end": 45821,
+      "confidence": 0.99999696,
+      "speaker": "C"
+    },
+    {
+      "text": "always",
+      "start": 45902,
+      "end": 46126,
+      "confidence": 0.9999963,
+      "speaker": "C"
+    },
+    {
+      "text": "increase",
+      "start": 46158,
+      "end": 46512,
+      "confidence": 0.99999845,
+      "speaker": "C"
+    },
+    {
+      "text": "just",
+      "start": 46640,
+      "end": 46945,
+      "confidence": 0.9999702,
+      "speaker": "C"
+    },
+    {
+      "text": "because",
+      "start": 46945,
+      "end": 47202,
+      "confidence": 0.999984,
+      "speaker": "C"
+    },
+    {
+      "text": "an",
+      "start": 47202,
+      "end": 47250,
+      "confidence": 0.99997795,
+      "speaker": "C"
+    },
+    {
+      "text": "area",
+      "start": 47427,
+      "end": 47748,
+      "confidence": 0.9999949,
+      "speaker": "C"
+    },
+    {
+      "text": "is",
+      "start": 47764,
+      "end": 47812,
+      "confidence": 0.9999708,
+      "speaker": "C"
+    },
+    {
+      "text": "developing.",
+      "start": 47844,
+      "end": 48374,
+      "confidence": 0.9993277,
+      "speaker": "C"
+    },
+    {
+      "text": "Absolutely,",
+      "start": 49595,
+      "end": 50173,
+      "confidence": 0.9990239,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 50494,
+      "end": 50558,
+      "confidence": 0.99996734,
+      "speaker": "B"
+    },
+    {
+      "text": "I",
+      "start": 50574,
+      "end": 50606,
+      "confidence": 0.9999925,
+      "speaker": "B"
+    },
+    {
+      "text": "wouldn't",
+      "start": 50654,
+      "end": 50879,
+      "confidence": 0.9999971,
+      "speaker": "B"
+    },
+    {
+      "text": "want",
+      "start": 50879,
+      "end": 50991,
+      "confidence": 0.99998355,
+      "speaker": "B"
+    },
+    {
+      "text": "you",
+      "start": 50991,
+      "end": 51056,
+      "confidence": 0.99999166,
+      "speaker": "B"
+    },
+    {
+      "text": "to",
+      "start": 51056,
+      "end": 51136,
+      "confidence": 0.9999982,
+      "speaker": "B"
+    },
+    {
+      "text": "buy",
+      "start": 51136,
+      "end": 51361,
+      "confidence": 0.9999924,
+      "speaker": "B"
+    },
+    {
+      "text": "based",
+      "start": 51377,
+      "end": 51618,
+      "confidence": 0.99998736,
+      "speaker": "B"
+    },
+    {
+      "text": "on",
+      "start": 51618,
+      "end": 51762,
+      "confidence": 0.9999896,
+      "speaker": "B"
+    },
+    {
+      "text": "promises.",
+      "start": 51762,
+      "end": 52228,
+      "confidence": 0.9998427,
+      "speaker": "B"
+    },
+    {
+      "text": "What",
+      "start": 52710,
+      "end": 52822,
+      "confidence": 0.99864966,
+      "speaker": "B"
+    },
+    {
+      "text": "I",
+      "start": 52822,
+      "end": 52902,
+      "confidence": 0.9999968,
+      "speaker": "B"
+    },
+    {
+      "text": "can",
+      "start": 52902,
+      "end": 53062,
+      "confidence": 0.99999833,
+      "speaker": "B"
+    },
+    {
+      "text": "tell",
+      "start": 53062,
+      "end": 53238,
+      "confidence": 0.9999968,
+      "speaker": "B"
+    },
+    {
+      "text": "you",
+      "start": 53366,
+      "end": 53431,
+      "confidence": 0.9999976,
+      "speaker": "B"
+    },
+    {
+      "text": "is",
+      "start": 53687,
+      "end": 53751,
+      "confidence": 0.9999925,
+      "speaker": "B"
+    },
+    {
+      "text": "that",
+      "start": 53783,
+      "end": 53911,
+      "confidence": 0.9999964,
+      "speaker": "B"
+    },
+    {
+      "text": "comparable",
+      "start": 53943,
+      "end": 54472,
+      "confidence": 0.99999917,
+      "speaker": "B"
+    },
+    {
+      "text": "properties",
+      "start": 54504,
+      "end": 54953,
+      "confidence": 0.99999833,
+      "speaker": "B"
+    },
+    {
+      "text": "nearby",
+      "start": 54985,
+      "end": 55417,
+      "confidence": 0.9999993,
+      "speaker": "B"
+    },
+    {
+      "text": "are",
+      "start": 55802,
+      "end": 55850,
+      "confidence": 0.9999919,
+      "speaker": "B"
+    },
+    {
+      "text": "already",
+      "start": 56010,
+      "end": 56283,
+      "confidence": 0.9999988,
+      "speaker": "B"
+    },
+    {
+      "text": "selling",
+      "start": 56283,
+      "end": 56683,
+      "confidence": 0.9999975,
+      "speaker": "B"
+    },
+    {
+      "text": "at",
+      "start": 56731,
+      "end": 56795,
+      "confidence": 0.9999964,
+      "speaker": "B"
+    },
+    {
+      "text": "higher",
+      "start": 56812,
+      "end": 57068,
+      "confidence": 0.9999976,
+      "speaker": "B"
+    },
+    {
+      "text": "prices.",
+      "start": 57068,
+      "end": 57517,
+      "confidence": 0.9999744,
+      "speaker": "B"
+    },
+    {
+      "text": "This",
+      "start": 58093,
+      "end": 58206,
+      "confidence": 0.99983287,
+      "speaker": "B"
+    },
+    {
+      "text": "house",
+      "start": 58254,
+      "end": 58574,
+      "confidence": 0.9999957,
+      "speaker": "B"
+    },
+    {
+      "text": "also",
+      "start": 58574,
+      "end": 58879,
+      "confidence": 0.99999785,
+      "speaker": "B"
+    },
+    {
+      "text": "has",
+      "start": 58895,
+      "end": 59039,
+      "confidence": 0.9999981,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 59071,
+      "end": 59215,
+      "confidence": 0.9999969,
+      "speaker": "B"
+    },
+    {
+      "text": "larger",
+      "start": 59215,
+      "end": 59552,
+      "confidence": 0.9999943,
+      "speaker": "B"
+    },
+    {
+      "text": "plot",
+      "start": 59552,
+      "end": 59824,
+      "confidence": 0.9998356,
+      "speaker": "B"
+    },
+    {
+      "text": "than",
+      "start": 60016,
+      "end": 60080,
+      "confidence": 0.99999464,
+      "speaker": "B"
+    },
+    {
+      "text": "many",
+      "start": 60192,
+      "end": 60481,
+      "confidence": 0.99999666,
+      "speaker": "B"
+    },
+    {
+      "text": "of",
+      "start": 60529,
+      "end": 60609,
+      "confidence": 0.9999957,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 60657,
+      "end": 60737,
+      "confidence": 0.9999919,
+      "speaker": "B"
+    },
+    {
+      "text": "newer",
+      "start": 60737,
+      "end": 61058,
+      "confidence": 0.99999464,
+      "speaker": "B"
+    },
+    {
+      "text": "properties",
+      "start": 61058,
+      "end": 61522,
+      "confidence": 0.99999464,
+      "speaker": "B"
+    },
+    {
+      "text": "being",
+      "start": 61554,
+      "end": 61683,
+      "confidence": 0.9999945,
+      "speaker": "B"
+    },
+    {
+      "text": "built.",
+      "start": 61795,
+      "end": 62083,
+      "confidence": 0.9998941,
+      "speaker": "B"
+    },
+    {
+      "text": "What",
+      "start": 62676,
+      "end": 62836,
+      "confidence": 0.99974006,
+      "speaker": "A"
+    },
+    {
+      "text": "about",
+      "start": 62836,
+      "end": 63013,
+      "confidence": 0.99999714,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 63061,
+      "end": 63141,
+      "confidence": 0.999997,
+      "speaker": "A"
+    },
+    {
+      "text": "condition",
+      "start": 63141,
+      "end": 63557,
+      "confidence": 0.99999774,
+      "speaker": "A"
+    },
+    {
+      "text": "of",
+      "start": 63557,
+      "end": 63638,
+      "confidence": 0.99999785,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 63638,
+      "end": 63718,
+      "confidence": 0.999998,
+      "speaker": "A"
+    },
+    {
+      "text": "house?",
+      "start": 63718,
+      "end": 64118,
+      "confidence": 0.9999272,
+      "speaker": "A"
+    },
+    {
+      "text": "Are",
+      "start": 64679,
+      "end": 64727,
+      "confidence": 0.9999057,
+      "speaker": "A"
+    },
+    {
+      "text": "there",
+      "start": 64759,
+      "end": 64903,
+      "confidence": 0.99999547,
+      "speaker": "A"
+    },
+    {
+      "text": "any",
+      "start": 64903,
+      "end": 65016,
+      "confidence": 0.9999958,
+      "speaker": "A"
+    },
+    {
+      "text": "major",
+      "start": 65016,
+      "end": 65384,
+      "confidence": 0.9999981,
+      "speaker": "A"
+    },
+    {
+      "text": "repairs",
+      "start": 65384,
+      "end": 65769,
+      "confidence": 0.99999785,
+      "speaker": "A"
+    },
+    {
+      "text": "needed?",
+      "start": 65801,
+      "end": 66089,
+      "confidence": 0.9999897,
+      "speaker": "A"
+    },
+    {
+      "text": "Nothing",
+      "start": 66666,
+      "end": 66874,
+      "confidence": 0.99997413,
+      "speaker": "B"
+    },
+    {
+      "text": "major",
+      "start": 66922,
+      "end": 67291,
+      "confidence": 0.9999945,
+      "speaker": "B"
+    },
+    {
+      "text": "that",
+      "start": 67307,
+      "end": 67403,
+      "confidence": 0.9999932,
+      "speaker": "B"
+    },
+    {
+      "text": "I'm",
+      "start": 67403,
+      "end": 67547,
+      "confidence": 0.99999845,
+      "speaker": "B"
+    },
+    {
+      "text": "aware",
+      "start": 67547,
+      "end": 67756,
+      "confidence": 0.9999995,
+      "speaker": "B"
+    },
+    {
+      "text": "of.",
+      "start": 67868,
+      "end": 68012,
+      "confidence": 0.99995583,
+      "speaker": "B"
+    },
+    {
+      "text": "The",
+      "start": 68445,
+      "end": 68605,
+      "confidence": 0.9999547,
+      "speaker": "B"
+    },
+    {
+      "text": "electrical",
+      "start": 68605,
+      "end": 69053,
+      "confidence": 0.9999945,
+      "speaker": "B"
+    },
+    {
+      "text": "system",
+      "start": 69086,
+      "end": 69486,
+      "confidence": 0.99999845,
+      "speaker": "B"
+    },
+    {
+      "text": "was",
+      "start": 69486,
+      "end": 69694,
+      "confidence": 0.9999969,
+      "speaker": "B"
+    },
+    {
+      "text": "recently",
+      "start": 69726,
+      "end": 70175,
+      "confidence": 0.9999939,
+      "speaker": "B"
+    },
+    {
+      "text": "checked,",
+      "start": 70207,
+      "end": 70672,
+      "confidence": 0.9998882,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 70912,
+      "end": 70976,
+      "confidence": 0.99999154,
+      "speaker": "B"
+    },
+    {
+      "text": "kitchen",
+      "start": 71008,
+      "end": 71377,
+      "confidence": 0.9999969,
+      "speaker": "B"
+    },
+    {
+      "text": "was",
+      "start": 71393,
+      "end": 71489,
+      "confidence": 0.9999982,
+      "speaker": "B"
+    },
+    {
+      "text": "renovated",
+      "start": 71569,
+      "end": 72098,
+      "confidence": 0.9999926,
+      "speaker": "B"
+    },
+    {
+      "text": "2",
+      "start": 72130,
+      "end": 72402,
+      "confidence": 0.99999714,
+      "speaker": "B"
+    },
+    {
+      "text": "years",
+      "start": 72434,
+      "end": 72691,
+      "confidence": 0.99999833,
+      "speaker": "B"
+    },
+    {
+      "text": "ago,",
+      "start": 72691,
+      "end": 72963,
+      "confidence": 0.9999964,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 73332,
+      "end": 73396,
+      "confidence": 0.9999962,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 73476,
+      "end": 73540,
+      "confidence": 0.99999714,
+      "speaker": "B"
+    },
+    {
+      "text": "roof",
+      "start": 73636,
+      "end": 73877,
+      "confidence": 0.99999845,
+      "speaker": "B"
+    },
+    {
+      "text": "was",
+      "start": 73893,
+      "end": 74021,
+      "confidence": 0.9999964,
+      "speaker": "B"
+    },
+    {
+      "text": "inspected",
+      "start": 74053,
+      "end": 74614,
+      "confidence": 0.9999939,
+      "speaker": "B"
+    },
+    {
+      "text": "last",
+      "start": 74614,
+      "end": 74886,
+      "confidence": 0.99999833,
+      "speaker": "B"
+    },
+    {
+      "text": "year.",
+      "start": 74934,
+      "end": 75046,
+      "confidence": 0.99998534,
+      "speaker": "B"
+    },
+    {
+      "text": "Of",
+      "start": 75655,
+      "end": 75735,
+      "confidence": 0.99995434,
+      "speaker": "B"
+    },
+    {
+      "text": "course,",
+      "start": 75735,
+      "end": 76008,
+      "confidence": 0.9999971,
+      "speaker": "B"
+    },
+    {
+      "text": "I",
+      "start": 76456,
+      "end": 76472,
+      "confidence": 0.9999976,
+      "speaker": "B"
+    },
+    {
+      "text": "recommend",
+      "start": 76520,
+      "end": 77017,
+      "confidence": 0.9999856,
+      "speaker": "B"
+    },
+    {
+      "text": "getting",
+      "start": 77017,
+      "end": 77242,
+      "confidence": 0.99999547,
+      "speaker": "B"
+    },
+    {
+      "text": "your",
+      "start": 77274,
+      "end": 77482,
+      "confidence": 0.99999213,
+      "speaker": "B"
+    },
+    {
+      "text": "own",
+      "start": 77482,
+      "end": 77530,
+      "confidence": 0.9999957,
+      "speaker": "B"
+    },
+    {
+      "text": "inspection",
+      "start": 77594,
+      "end": 78107,
+      "confidence": 0.99999225,
+      "speaker": "B"
+    },
+    {
+      "text": "before",
+      "start": 78219,
+      "end": 78571,
+      "confidence": 0.99999595,
+      "speaker": "B"
+    },
+    {
+      "text": "making",
+      "start": 78620,
+      "end": 78940,
+      "confidence": 0.9999964,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 78940,
+      "end": 79004,
+      "confidence": 0.99999714,
+      "speaker": "B"
+    },
+    {
+      "text": "final",
+      "start": 79004,
+      "end": 79244,
+      "confidence": 0.99999785,
+      "speaker": "B"
+    },
+    {
+      "text": "decision.",
+      "start": 79260,
+      "end": 79629,
+      "confidence": 0.9997735,
+      "speaker": "B"
+    },
+    {
+      "text": "That's",
+      "start": 80222,
+      "end": 80463,
+      "confidence": 0.99981594,
+      "speaker": "C"
+    },
+    {
+      "text": "good",
+      "start": 80463,
+      "end": 80608,
+      "confidence": 0.9999906,
+      "speaker": "C"
+    },
+    {
+      "text": "to",
+      "start": 80624,
+      "end": 80768,
+      "confidence": 0.9999969,
+      "speaker": "C"
+    },
+    {
+      "text": "hear.",
+      "start": 80768,
+      "end": 81025,
+      "confidence": 0.99310493,
+      "speaker": "C"
+    },
+    {
+      "text": "What",
+      "start": 82149,
+      "end": 82262,
+      "confidence": 0.99302965,
+      "speaker": "C"
+    },
+    {
+      "text": "about",
+      "start": 82294,
+      "end": 82503,
+      "confidence": 0.99999595,
+      "speaker": "C"
+    },
+    {
+      "text": "parking?",
+      "start": 82551,
+      "end": 82920,
+      "confidence": 0.9999843,
+      "speaker": "C"
+    },
+    {
+      "text": "There's",
+      "start": 84141,
+      "end": 84317,
+      "confidence": 0.99998915,
+      "speaker": "B"
+    },
+    {
+      "text": "covered",
+      "start": 84317,
+      "end": 84638,
+      "confidence": 0.99998605,
+      "speaker": "B"
+    },
+    {
+      "text": "parking",
+      "start": 84638,
+      "end": 84960,
+      "confidence": 0.999998,
+      "speaker": "B"
+    },
+    {
+      "text": "for",
+      "start": 85024,
+      "end": 85200,
+      "confidence": 0.9999969,
+      "speaker": "B"
+    },
+    {
+      "text": "2",
+      "start": 85200,
+      "end": 85425,
+      "confidence": 0.9999827,
+      "speaker": "B"
+    },
+    {
+      "text": "cars,",
+      "start": 85441,
+      "end": 85811,
+      "confidence": 0.99997765,
+      "speaker": "B"
+    },
+    {
+      "text": "plus",
+      "start": 86164,
+      "end": 86485,
+      "confidence": 0.99996984,
+      "speaker": "B"
+    },
+    {
+      "text": "additional",
+      "start": 86485,
+      "end": 86983,
+      "confidence": 0.9999926,
+      "speaker": "B"
+    },
+    {
+      "text": "street",
+      "start": 86983,
+      "end": 87352,
+      "confidence": 0.99999535,
+      "speaker": "B"
+    },
+    {
+      "text": "parking",
+      "start": 87352,
+      "end": 87657,
+      "confidence": 0.9999981,
+      "speaker": "B"
+    },
+    {
+      "text": "for",
+      "start": 87689,
+      "end": 87850,
+      "confidence": 0.99998736,
+      "speaker": "B"
+    },
+    {
+      "text": "visitors.",
+      "start": 87850,
+      "end": 88219,
+      "confidence": 0.9999875,
+      "speaker": "B"
+    },
+    {
+      "text": "And",
+      "start": 89038,
+      "end": 89183,
+      "confidence": 0.9999621,
+      "speaker": "A"
+    },
+    {
+      "text": "if",
+      "start": 89231,
+      "end": 89359,
+      "confidence": 0.9963278,
+      "speaker": "A"
+    },
+    {
+      "text": "we",
+      "start": 89375,
+      "end": 89488,
+      "confidence": 0.99999535,
+      "speaker": "A"
+    },
+    {
+      "text": "eventually",
+      "start": 89520,
+      "end": 89986,
+      "confidence": 0.9999908,
+      "speaker": "A"
+    },
+    {
+      "text": "decide",
+      "start": 90018,
+      "end": 90403,
+      "confidence": 0.9999925,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 90403,
+      "end": 90564,
+      "confidence": 0.99999535,
+      "speaker": "A"
+    },
+    {
+      "text": "rent",
+      "start": 90564,
+      "end": 90740,
+      "confidence": 0.9999968,
+      "speaker": "A"
+    },
+    {
+      "text": "it",
+      "start": 90740,
+      "end": 90821,
+      "confidence": 0.9999951,
+      "speaker": "A"
+    },
+    {
+      "text": "out?",
+      "start": 90885,
+      "end": 90997,
+      "confidence": 0.99994636,
+      "speaker": "A"
+    },
+    {
+      "text": "That's",
+      "start": 91543,
+      "end": 91784,
+      "confidence": 0.99999124,
+      "speaker": "B"
+    },
+    {
+      "text": "another",
+      "start": 91784,
+      "end": 92025,
+      "confidence": 0.99999714,
+      "speaker": "B"
+    },
+    {
+      "text": "advantage.",
+      "start": 92041,
+      "end": 92555,
+      "confidence": 0.9987874,
+      "speaker": "B"
+    },
+    {
+      "text": "A",
+      "start": 93133,
+      "end": 93165,
+      "confidence": 0.9999206,
+      "speaker": "B"
+    },
+    {
+      "text": "3-bedroom",
+      "start": 93165,
+      "end": 93775,
+      "confidence": 0.99859786,
+      "speaker": "B"
+    },
+    {
+      "text": "house",
+      "start": 93775,
+      "end": 94112,
+      "confidence": 0.9999918,
+      "speaker": "B"
+    },
+    {
+      "text": "in",
+      "start": 94112,
+      "end": 94193,
+      "confidence": 0.99999666,
+      "speaker": "B"
+    },
+    {
+      "text": "this",
+      "start": 94193,
+      "end": 94321,
+      "confidence": 0.99999726,
+      "speaker": "B"
+    },
+    {
+      "text": "neighborhood",
+      "start": 94418,
+      "end": 94883,
+      "confidence": 0.99745923,
+      "speaker": "B"
+    },
+    {
+      "text": "could",
+      "start": 95060,
+      "end": 95237,
+      "confidence": 0.99998486,
+      "speaker": "B"
+    },
+    {
+      "text": "appeal",
+      "start": 95237,
+      "end": 95574,
+      "confidence": 0.9999968,
+      "speaker": "B"
+    },
+    {
+      "text": "to",
+      "start": 95638,
+      "end": 95766,
+      "confidence": 0.99999714,
+      "speaker": "B"
+    },
+    {
+      "text": "families",
+      "start": 95782,
+      "end": 96328,
+      "confidence": 0.9999969,
+      "speaker": "B"
+    },
+    {
+      "text": "or",
+      "start": 96618,
+      "end": 96698,
+      "confidence": 0.99987435,
+      "speaker": "B"
+    },
+    {
+      "text": "professionals",
+      "start": 96746,
+      "end": 97372,
+      "confidence": 0.9999976,
+      "speaker": "B"
+    },
+    {
+      "text": "looking",
+      "start": 97485,
+      "end": 97693,
+      "confidence": 0.99999,
+      "speaker": "B"
+    },
+    {
+      "text": "for",
+      "start": 97725,
+      "end": 97854,
+      "confidence": 0.9999976,
+      "speaker": "B"
+    },
+    {
+      "text": "more",
+      "start": 97854,
+      "end": 98063,
+      "confidence": 0.99999833,
+      "speaker": "B"
+    },
+    {
+      "text": "space.",
+      "start": 98063,
+      "end": 98416,
+      "confidence": 0.99999255,
+      "speaker": "B"
+    },
+    {
+      "text": "You",
+      "start": 99074,
+      "end": 99171,
+      "confidence": 0.9999114,
+      "speaker": "B"
+    },
+    {
+      "text": "could",
+      "start": 99171,
+      "end": 99331,
+      "confidence": 0.9999937,
+      "speaker": "B"
+    },
+    {
+      "text": "live",
+      "start": 99331,
+      "end": 99556,
+      "confidence": 0.99999464,
+      "speaker": "B"
+    },
+    {
+      "text": "here",
+      "start": 99556,
+      "end": 99668,
+      "confidence": 0.99999547,
+      "speaker": "B"
+    },
+    {
+      "text": "now",
+      "start": 99701,
+      "end": 99909,
+      "confidence": 0.9999938,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 100375,
+      "end": 100439,
+      "confidence": 0.96119815,
+      "speaker": "B"
+    },
+    {
+      "text": "potentially",
+      "start": 100455,
+      "end": 100905,
+      "confidence": 0.99999523,
+      "speaker": "B"
+    },
+    {
+      "text": "rent",
+      "start": 101001,
+      "end": 101114,
+      "confidence": 0.99999535,
+      "speaker": "B"
+    },
+    {
+      "text": "it",
+      "start": 101114,
+      "end": 101242,
+      "confidence": 0.99999785,
+      "speaker": "B"
+    },
+    {
+      "text": "out",
+      "start": 101242,
+      "end": 101290,
+      "confidence": 0.99999833,
+      "speaker": "B"
+    },
+    {
+      "text": "later.",
+      "start": 101338,
+      "end": 101595,
+      "confidence": 0.99977887,
+      "speaker": "B"
+    },
+    {
+      "text": "The",
+      "start": 102125,
+      "end": 102190,
+      "confidence": 0.9998591,
+      "speaker": "B"
+    },
+    {
+      "text": "property",
+      "start": 102222,
+      "end": 102671,
+      "confidence": 0.99999297,
+      "speaker": "B"
+    },
+    {
+      "text": "gives",
+      "start": 102864,
+      "end": 103105,
+      "confidence": 0.9999907,
+      "speaker": "B"
+    },
+    {
+      "text": "you",
+      "start": 103105,
+      "end": 103185,
+      "confidence": 0.9999956,
+      "speaker": "B"
+    },
+    {
+      "text": "flexibility.",
+      "start": 103185,
+      "end": 103876,
+      "confidence": 0.9997935,
+      "speaker": "B"
+    },
+    {
+      "text": "We're",
+      "start": 104534,
+      "end": 104711,
+      "confidence": 0.9679727,
+      "speaker": "C"
+    },
+    {
+      "text": "still",
+      "start": 104711,
+      "end": 105000,
+      "confidence": 0.9999964,
+      "speaker": "C"
+    },
+    {
+      "text": "concerned",
+      "start": 105032,
+      "end": 105514,
+      "confidence": 0.99999475,
+      "speaker": "C"
+    },
+    {
+      "text": "about",
+      "start": 105514,
+      "end": 105706,
+      "confidence": 0.9999969,
+      "speaker": "C"
+    },
+    {
+      "text": "\u20b91.2",
+      "start": 105819,
+      "end": 106557,
+      "confidence": 0.97868717,
+      "speaker": "C"
+    },
+    {
+      "text": "crore.",
+      "start": 106557,
+      "end": 107119,
+      "confidence": 0.9972929,
+      "speaker": "C"
+    },
+    {
+      "text": "We",
+      "start": 108542,
+      "end": 108641,
+      "confidence": 0.99914634,
+      "speaker": "C"
+    },
+    {
+      "text": "were",
+      "start": 108641,
+      "end": 108740,
+      "confidence": 0.999977,
+      "speaker": "C"
+    },
+    {
+      "text": "hoping",
+      "start": 108790,
+      "end": 109104,
+      "confidence": 0.9999908,
+      "speaker": "C"
+    },
+    {
+      "text": "to",
+      "start": 109121,
+      "end": 109203,
+      "confidence": 0.99999785,
+      "speaker": "C"
+    },
+    {
+      "text": "stay",
+      "start": 109203,
+      "end": 109418,
+      "confidence": 0.9999937,
+      "speaker": "C"
+    },
+    {
+      "text": "closer",
+      "start": 109468,
+      "end": 109947,
+      "confidence": 0.9999894,
+      "speaker": "C"
+    },
+    {
+      "text": "to",
+      "start": 109947,
+      "end": 110047,
+      "confidence": 0.99999344,
+      "speaker": "C"
+    },
+    {
+      "text": "\u20b91.05",
+      "start": 110113,
+      "end": 111270,
+      "confidence": 0.97887254,
+      "speaker": "C"
+    },
+    {
+      "text": "crore.",
+      "start": 111270,
+      "end": 111634,
+      "confidence": 0.999253,
+      "speaker": "C"
+    },
+    {
+      "text": "I",
+      "start": 113184,
+      "end": 113232,
+      "confidence": 0.99993575,
+      "speaker": "B"
+    },
+    {
+      "text": "understand.",
+      "start": 113264,
+      "end": 113766,
+      "confidence": 0.998995,
+      "speaker": "B"
+    },
+    {
+      "text": "\u20b91.05",
+      "start": 114300,
+      "end": 115367,
+      "confidence": 0.99995023,
+      "speaker": "B"
+    },
+    {
+      "text": "crore",
+      "start": 115367,
+      "end": 115642,
+      "confidence": 0.9999957,
+      "speaker": "B"
+    },
+    {
+      "text": "would",
+      "start": 116321,
+      "end": 116402,
+      "confidence": 0.9999645,
+      "speaker": "B"
+    },
+    {
+      "text": "be",
+      "start": 116418,
+      "end": 116580,
+      "confidence": 0.999998,
+      "speaker": "B"
+    },
+    {
+      "text": "quite",
+      "start": 116580,
+      "end": 116904,
+      "confidence": 0.9999963,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 116904,
+      "end": 116920,
+      "confidence": 0.99999845,
+      "speaker": "B"
+    },
+    {
+      "text": "significant",
+      "start": 116920,
+      "end": 117631,
+      "confidence": 0.99999857,
+      "speaker": "B"
+    },
+    {
+      "text": "reduction.",
+      "start": 117631,
+      "end": 118003,
+      "confidence": 0.99994713,
+      "speaker": "B"
+    },
+    {
+      "text": "However,",
+      "start": 118586,
+      "end": 118877,
+      "confidence": 0.99998766,
+      "speaker": "B"
+    },
+    {
+      "text": "if",
+      "start": 119346,
+      "end": 119427,
+      "confidence": 0.99999833,
+      "speaker": "B"
+    },
+    {
+      "text": "you're",
+      "start": 119475,
+      "end": 119572,
+      "confidence": 0.9999957,
+      "speaker": "B"
+    },
+    {
+      "text": "serious",
+      "start": 119572,
+      "end": 120090,
+      "confidence": 0.9999957,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 120381,
+      "end": 120446,
+      "confidence": 0.9999614,
+      "speaker": "B"
+    },
+    {
+      "text": "can",
+      "start": 120462,
+      "end": 120624,
+      "confidence": 0.9999912,
+      "speaker": "B"
+    },
+    {
+      "text": "move",
+      "start": 120624,
+      "end": 120834,
+      "confidence": 0.9999976,
+      "speaker": "B"
+    },
+    {
+      "text": "quickly,",
+      "start": 120850,
+      "end": 121238,
+      "confidence": 0.99999815,
+      "speaker": "B"
+    },
+    {
+      "text": "I",
+      "start": 121659,
+      "end": 121691,
+      "confidence": 0.9999895,
+      "speaker": "B"
+    },
+    {
+      "text": "may",
+      "start": 121691,
+      "end": 121837,
+      "confidence": 0.99999344,
+      "speaker": "B"
+    },
+    {
+      "text": "be",
+      "start": 121901,
+      "end": 122063,
+      "confidence": 0.9999987,
+      "speaker": "B"
+    },
+    {
+      "text": "able",
+      "start": 122063,
+      "end": 122225,
+      "confidence": 0.9999987,
+      "speaker": "B"
+    },
+    {
+      "text": "to",
+      "start": 122225,
+      "end": 122290,
+      "confidence": 0.99999857,
+      "speaker": "B"
+    },
+    {
+      "text": "negotiate",
+      "start": 122290,
+      "end": 122807,
+      "confidence": 0.9999914,
+      "speaker": "B"
+    },
+    {
+      "text": "with",
+      "start": 122807,
+      "end": 122920,
+      "confidence": 0.9999865,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 122953,
+      "end": 123034,
+      "confidence": 0.99999666,
+      "speaker": "B"
+    },
+    {
+      "text": "seller.",
+      "start": 123034,
+      "end": 123390,
+      "confidence": 0.9999774,
+      "speaker": "B"
+    },
+    {
+      "text": "How",
+      "start": 124085,
+      "end": 124199,
+      "confidence": 0.9999826,
+      "speaker": "A"
+    },
+    {
+      "text": "much",
+      "start": 124199,
+      "end": 124393,
+      "confidence": 0.9999958,
+      "speaker": "A"
+    },
+    {
+      "text": "flexibility",
+      "start": 124506,
+      "end": 125218,
+      "confidence": 0.9999975,
+      "speaker": "A"
+    },
+    {
+      "text": "do",
+      "start": 125218,
+      "end": 125250,
+      "confidence": 0.999995,
+      "speaker": "A"
+    },
+    {
+      "text": "you",
+      "start": 125250,
+      "end": 125380,
+      "confidence": 0.9999988,
+      "speaker": "A"
+    },
+    {
+      "text": "think",
+      "start": 125380,
+      "end": 125558,
+      "confidence": 0.9999981,
+      "speaker": "A"
+    },
+    {
+      "text": "there",
+      "start": 125558,
+      "end": 125671,
+      "confidence": 0.99999726,
+      "speaker": "A"
+    },
+    {
+      "text": "is?",
+      "start": 125719,
+      "end": 125849,
+      "confidence": 0.99998313,
+      "speaker": "A"
+    },
+    {
+      "text": "I",
+      "start": 126593,
+      "end": 126609,
+      "confidence": 0.9999877,
+      "speaker": "B"
+    },
+    {
+      "text": "believe",
+      "start": 126609,
+      "end": 126917,
+      "confidence": 0.9999912,
+      "speaker": "B"
+    },
+    {
+      "text": "we",
+      "start": 126933,
+      "end": 127078,
+      "confidence": 0.9999963,
+      "speaker": "B"
+    },
+    {
+      "text": "could",
+      "start": 127078,
+      "end": 127175,
+      "confidence": 0.99999714,
+      "speaker": "B"
+    },
+    {
+      "text": "potentially",
+      "start": 127175,
+      "end": 127790,
+      "confidence": 0.9999988,
+      "speaker": "B"
+    },
+    {
+      "text": "get",
+      "start": 127806,
+      "end": 127984,
+      "confidence": 0.9999964,
+      "speaker": "B"
+    },
+    {
+      "text": "closer",
+      "start": 127984,
+      "end": 128389,
+      "confidence": 0.99997747,
+      "speaker": "B"
+    },
+    {
+      "text": "to",
+      "start": 128389,
+      "end": 128551,
+      "confidence": 0.99999726,
+      "speaker": "B"
+    },
+    {
+      "text": "\u20b91.12",
+      "start": 128632,
+      "end": 129457,
+      "confidence": 0.9999877,
+      "speaker": "B"
+    },
+    {
+      "text": "crore,",
+      "start": 129748,
+      "end": 130088,
+      "confidence": 0.9951946,
+      "speaker": "B"
+    },
+    {
+      "text": "depending",
+      "start": 130832,
+      "end": 131155,
+      "confidence": 0.99999356,
+      "speaker": "B"
+    },
+    {
+      "text": "on",
+      "start": 131204,
+      "end": 131252,
+      "confidence": 0.9999981,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 131285,
+      "end": 131350,
+      "confidence": 0.9999975,
+      "speaker": "B"
+    },
+    {
+      "text": "seller's",
+      "start": 131350,
+      "end": 131626,
+      "confidence": 0.999989,
+      "speaker": "B"
+    },
+    {
+      "text": "response.",
+      "start": 131626,
+      "end": 132082,
+      "confidence": 0.9999966,
+      "speaker": "B"
+    },
+    {
+      "text": "I",
+      "start": 132766,
+      "end": 132798,
+      "confidence": 0.9999249,
+      "speaker": "B"
+    },
+    {
+      "text": "could",
+      "start": 132831,
+      "end": 132945,
+      "confidence": 0.9999887,
+      "speaker": "B"
+    },
+    {
+      "text": "also",
+      "start": 132994,
+      "end": 133222,
+      "confidence": 0.9999987,
+      "speaker": "B"
+    },
+    {
+      "text": "ask",
+      "start": 133319,
+      "end": 133580,
+      "confidence": 0.9999964,
+      "speaker": "B"
+    },
+    {
+      "text": "whether",
+      "start": 133580,
+      "end": 133824,
+      "confidence": 0.9999887,
+      "speaker": "B"
+    },
+    {
+      "text": "they",
+      "start": 133824,
+      "end": 133954,
+      "confidence": 0.99999833,
+      "speaker": "B"
+    },
+    {
+      "text": "would",
+      "start": 133971,
+      "end": 134150,
+      "confidence": 0.9999511,
+      "speaker": "B"
+    },
+    {
+      "text": "include",
+      "start": 134150,
+      "end": 134557,
+      "confidence": 0.9999964,
+      "speaker": "B"
+    },
+    {
+      "text": "some",
+      "start": 134557,
+      "end": 134817,
+      "confidence": 0.9999974,
+      "speaker": "B"
+    },
+    {
+      "text": "of",
+      "start": 134817,
+      "end": 134899,
+      "confidence": 0.99999785,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 134948,
+      "end": 135045,
+      "confidence": 0.9999962,
+      "speaker": "B"
+    },
+    {
+      "text": "existing",
+      "start": 135045,
+      "end": 135485,
+      "confidence": 0.99999774,
+      "speaker": "B"
+    },
+    {
+      "text": "appliances.",
+      "start": 135534,
+      "end": 135908,
+      "confidence": 0.99971443,
+      "speaker": "B"
+    },
+    {
+      "text": "Suppose",
+      "start": 136728,
+      "end": 137161,
+      "confidence": 0.9999211,
+      "speaker": "C"
+    },
+    {
+      "text": "we",
+      "start": 137258,
+      "end": 137418,
+      "confidence": 0.9999944,
+      "speaker": "C"
+    },
+    {
+      "text": "offer",
+      "start": 137418,
+      "end": 137611,
+      "confidence": 0.9999937,
+      "speaker": "C"
+    },
+    {
+      "text": "\u20b91.1",
+      "start": 137739,
+      "end": 138364,
+      "confidence": 0.9474869,
+      "speaker": "C"
+    },
+    {
+      "text": "crore",
+      "start": 138477,
+      "end": 138894,
+      "confidence": 0.9995123,
+      "speaker": "C"
+    },
+    {
+      "text": "and",
+      "start": 139439,
+      "end": 139503,
+      "confidence": 0.9998872,
+      "speaker": "C"
+    },
+    {
+      "text": "agree",
+      "start": 139535,
+      "end": 139840,
+      "confidence": 0.99998677,
+      "speaker": "C"
+    },
+    {
+      "text": "to",
+      "start": 139840,
+      "end": 140001,
+      "confidence": 0.99999917,
+      "speaker": "C"
+    },
+    {
+      "text": "complete",
+      "start": 140001,
+      "end": 140402,
+      "confidence": 0.99999666,
+      "speaker": "C"
+    },
+    {
+      "text": "the",
+      "start": 140402,
+      "end": 140546,
+      "confidence": 0.999992,
+      "speaker": "C"
+    },
+    {
+      "text": "paperwork",
+      "start": 140546,
+      "end": 140963,
+      "confidence": 0.99999964,
+      "speaker": "C"
+    },
+    {
+      "text": "quickly.",
+      "start": 141027,
+      "end": 141412,
+      "confidence": 0.9996408,
+      "speaker": "C"
+    },
+    {
+      "text": "Would",
+      "start": 142567,
+      "end": 142696,
+      "confidence": 0.9998348,
+      "speaker": "C"
+    },
+    {
+      "text": "you",
+      "start": 142728,
+      "end": 142872,
+      "confidence": 0.9999982,
+      "speaker": "C"
+    },
+    {
+      "text": "take",
+      "start": 142872,
+      "end": 143129,
+      "confidence": 0.9999963,
+      "speaker": "C"
+    },
+    {
+      "text": "that",
+      "start": 143129,
+      "end": 143289,
+      "confidence": 0.999997,
+      "speaker": "C"
+    },
+    {
+      "text": "to",
+      "start": 143289,
+      "end": 143385,
+      "confidence": 0.9999956,
+      "speaker": "C"
+    },
+    {
+      "text": "the",
+      "start": 143385,
+      "end": 143530,
+      "confidence": 0.9999976,
+      "speaker": "C"
+    },
+    {
+      "text": "seller?",
+      "start": 143530,
+      "end": 143915,
+      "confidence": 0.99997157,
+      "speaker": "C"
+    },
+    {
+      "text": "Absolutely.",
+      "start": 145118,
+      "end": 145631,
+      "confidence": 0.9901972,
+      "speaker": "B"
+    },
+    {
+      "text": "I",
+      "start": 146160,
+      "end": 146209,
+      "confidence": 0.999936,
+      "speaker": "B"
+    },
+    {
+      "text": "can't",
+      "start": 146241,
+      "end": 146481,
+      "confidence": 0.9999984,
+      "speaker": "B"
+    },
+    {
+      "text": "guarantee",
+      "start": 146481,
+      "end": 146963,
+      "confidence": 0.9999989,
+      "speaker": "B"
+    },
+    {
+      "text": "they'll",
+      "start": 146963,
+      "end": 147123,
+      "confidence": 0.99999493,
+      "speaker": "B"
+    },
+    {
+      "text": "accept",
+      "start": 147123,
+      "end": 147540,
+      "confidence": 0.9999964,
+      "speaker": "B"
+    },
+    {
+      "text": "it,",
+      "start": 147540,
+      "end": 147588,
+      "confidence": 0.99999654,
+      "speaker": "B"
+    },
+    {
+      "text": "but",
+      "start": 148021,
+      "end": 148117,
+      "confidence": 0.9999982,
+      "speaker": "B"
+    },
+    {
+      "text": "I",
+      "start": 148117,
+      "end": 148182,
+      "confidence": 0.9999981,
+      "speaker": "B"
+    },
+    {
+      "text": "can",
+      "start": 148182,
+      "end": 148358,
+      "confidence": 0.9999981,
+      "speaker": "B"
+    },
+    {
+      "text": "present",
+      "start": 148406,
+      "end": 148743,
+      "confidence": 0.9999963,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 148743,
+      "end": 148855,
+      "confidence": 0.99999523,
+      "speaker": "B"
+    },
+    {
+      "text": "offer",
+      "start": 148968,
+      "end": 149208,
+      "confidence": 0.9999964,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 149449,
+      "end": 149529,
+      "confidence": 0.99999523,
+      "speaker": "B"
+    },
+    {
+      "text": "explain",
+      "start": 149545,
+      "end": 149994,
+      "confidence": 0.9999956,
+      "speaker": "B"
+    },
+    {
+      "text": "that",
+      "start": 150026,
+      "end": 150123,
+      "confidence": 0.9999931,
+      "speaker": "B"
+    },
+    {
+      "text": "you're",
+      "start": 150123,
+      "end": 150251,
+      "confidence": 0.9999959,
+      "speaker": "B"
+    },
+    {
+      "text": "ready",
+      "start": 150251,
+      "end": 150476,
+      "confidence": 0.9999981,
+      "speaker": "B"
+    },
+    {
+      "text": "to",
+      "start": 150508,
+      "end": 150588,
+      "confidence": 0.9999975,
+      "speaker": "B"
+    },
+    {
+      "text": "proceed.",
+      "start": 150588,
+      "end": 151117,
+      "confidence": 0.9999892,
+      "speaker": "B"
+    },
+    {
+      "text": "Before",
+      "start": 151711,
+      "end": 152096,
+      "confidence": 0.99986637,
+      "speaker": "A"
+    },
+    {
+      "text": "we",
+      "start": 152096,
+      "end": 152208,
+      "confidence": 0.9999958,
+      "speaker": "A"
+    },
+    {
+      "text": "make",
+      "start": 152208,
+      "end": 152433,
+      "confidence": 0.99999595,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 152433,
+      "end": 152561,
+      "confidence": 0.9999782,
+      "speaker": "A"
+    },
+    {
+      "text": "offer,",
+      "start": 152593,
+      "end": 152898,
+      "confidence": 0.9999371,
+      "speaker": "A"
+    },
+    {
+      "text": "I'd",
+      "start": 153459,
+      "end": 153668,
+      "confidence": 0.9999975,
+      "speaker": "A"
+    },
+    {
+      "text": "like",
+      "start": 153700,
+      "end": 153812,
+      "confidence": 0.9999939,
+      "speaker": "A"
+    },
+    {
+      "text": "to",
+      "start": 153876,
+      "end": 154005,
+      "confidence": 0.9999981,
+      "speaker": "A"
+    },
+    {
+      "text": "arrange",
+      "start": 154021,
+      "end": 154486,
+      "confidence": 0.99999416,
+      "speaker": "A"
+    },
+    {
+      "text": "an",
+      "start": 154518,
+      "end": 154566,
+      "confidence": 0.99998224,
+      "speaker": "A"
+    },
+    {
+      "text": "independent",
+      "start": 154823,
+      "end": 155336,
+      "confidence": 0.9999957,
+      "speaker": "A"
+    },
+    {
+      "text": "inspection.",
+      "start": 155336,
+      "end": 155913,
+      "confidence": 0.99997574,
+      "speaker": "A"
+    },
+    {
+      "text": "That's",
+      "start": 156587,
+      "end": 156764,
+      "confidence": 0.99999213,
+      "speaker": "B"
+    },
+    {
+      "text": "completely",
+      "start": 156764,
+      "end": 157293,
+      "confidence": 0.9999957,
+      "speaker": "B"
+    },
+    {
+      "text": "reasonable.",
+      "start": 157309,
+      "end": 157806,
+      "confidence": 0.9994406,
+      "speaker": "B"
+    },
+    {
+      "text": "In",
+      "start": 158288,
+      "end": 158368,
+      "confidence": 0.99998474,
+      "speaker": "B"
+    },
+    {
+      "text": "fact,",
+      "start": 158368,
+      "end": 158721,
+      "confidence": 0.9999989,
+      "speaker": "B"
+    },
+    {
+      "text": "I",
+      "start": 158993,
+      "end": 159042,
+      "confidence": 0.9999987,
+      "speaker": "B"
+    },
+    {
+      "text": "encourage",
+      "start": 159074,
+      "end": 159491,
+      "confidence": 0.9999734,
+      "speaker": "B"
+    },
+    {
+      "text": "it.",
+      "start": 159491,
+      "end": 159587,
+      "confidence": 0.99974316,
+      "speaker": "B"
+    },
+    {
+      "text": "If",
+      "start": 160068,
+      "end": 160196,
+      "confidence": 0.9999542,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 160196,
+      "end": 160293,
+      "confidence": 0.9999982,
+      "speaker": "B"
+    },
+    {
+      "text": "inspection",
+      "start": 160293,
+      "end": 160822,
+      "confidence": 0.9999938,
+      "speaker": "B"
+    },
+    {
+      "text": "comes",
+      "start": 160854,
+      "end": 161143,
+      "confidence": 0.99999714,
+      "speaker": "B"
+    },
+    {
+      "text": "back",
+      "start": 161175,
+      "end": 161400,
+      "confidence": 0.99999833,
+      "speaker": "B"
+    },
+    {
+      "text": "clean",
+      "start": 161416,
+      "end": 161769,
+      "confidence": 0.99997544,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 162041,
+      "end": 162121,
+      "confidence": 0.9837984,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 162121,
+      "end": 162202,
+      "confidence": 0.99999654,
+      "speaker": "B"
+    },
+    {
+      "text": "seller",
+      "start": 162202,
+      "end": 162555,
+      "confidence": 0.99998856,
+      "speaker": "B"
+    },
+    {
+      "text": "accepts",
+      "start": 162555,
+      "end": 163004,
+      "confidence": 0.9999844,
+      "speaker": "B"
+    },
+    {
+      "text": "your",
+      "start": 163004,
+      "end": 163116,
+      "confidence": 0.99993384,
+      "speaker": "B"
+    },
+    {
+      "text": "offer,",
+      "start": 163164,
+      "end": 163485,
+      "confidence": 0.99849606,
+      "speaker": "B"
+    },
+    {
+      "text": "You'll",
+      "start": 163742,
+      "end": 163904,
+      "confidence": 0.8247264,
+      "speaker": "B"
+    },
+    {
+      "text": "have",
+      "start": 163904,
+      "end": 164083,
+      "confidence": 0.9999944,
+      "speaker": "B"
+    },
+    {
+      "text": "much",
+      "start": 164131,
+      "end": 164277,
+      "confidence": 0.9999764,
+      "speaker": "B"
+    },
+    {
+      "text": "more",
+      "start": 164375,
+      "end": 164488,
+      "confidence": 0.9999932,
+      "speaker": "B"
+    },
+    {
+      "text": "confidence",
+      "start": 164537,
+      "end": 165121,
+      "confidence": 0.99998164,
+      "speaker": "B"
+    },
+    {
+      "text": "in",
+      "start": 165121,
+      "end": 165169,
+      "confidence": 0.999895,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 165202,
+      "end": 165283,
+      "confidence": 0.9999622,
+      "speaker": "B"
+    },
+    {
+      "text": "purchase.",
+      "start": 165283,
+      "end": 165656,
+      "confidence": 0.999664,
+      "speaker": "B"
+    },
+    {
+      "text": "Alright.",
+      "start": 166483,
+      "end": 166986,
+      "confidence": 0.8633192,
+      "speaker": "C"
+    },
+    {
+      "text": "Let's",
+      "start": 168122,
+      "end": 168365,
+      "confidence": 0.9994627,
+      "speaker": "C"
+    },
+    {
+      "text": "arrange",
+      "start": 168365,
+      "end": 168706,
+      "confidence": 0.99999213,
+      "speaker": "C"
+    },
+    {
+      "text": "the",
+      "start": 168755,
+      "end": 168852,
+      "confidence": 0.99995565,
+      "speaker": "C"
+    },
+    {
+      "text": "inspection",
+      "start": 168852,
+      "end": 169468,
+      "confidence": 0.9999889,
+      "speaker": "C"
+    },
+    {
+      "text": "and",
+      "start": 169501,
+      "end": 169566,
+      "confidence": 0.9999145,
+      "speaker": "C"
+    },
+    {
+      "text": "make",
+      "start": 169582,
+      "end": 169825,
+      "confidence": 0.99998724,
+      "speaker": "C"
+    },
+    {
+      "text": "an",
+      "start": 169825,
+      "end": 169906,
+      "confidence": 0.9999683,
+      "speaker": "C"
+    },
+    {
+      "text": "offer",
+      "start": 169971,
+      "end": 170117,
+      "confidence": 0.9999949,
+      "speaker": "C"
+    },
+    {
+      "text": "of",
+      "start": 170215,
+      "end": 170328,
+      "confidence": 0.9997204,
+      "speaker": "C"
+    },
+    {
+      "text": "\u20b91.1",
+      "start": 170377,
+      "end": 170993,
+      "confidence": 0.94735134,
+      "speaker": "C"
+    },
+    {
+      "text": "crore.",
+      "start": 171107,
+      "end": 171480,
+      "confidence": 0.9982585,
+      "speaker": "C"
+    },
+    {
+      "text": "Perfect.",
+      "start": 173042,
+      "end": 173428,
+      "confidence": 0.8842476,
+      "speaker": "B"
+    },
+    {
+      "text": "I'll",
+      "start": 173701,
+      "end": 174007,
+      "confidence": 0.99995136,
+      "speaker": "B"
+    },
+    {
+      "text": "contact",
+      "start": 174007,
+      "end": 174440,
+      "confidence": 0.9999919,
+      "speaker": "B"
+    },
+    {
+      "text": "the",
+      "start": 174473,
+      "end": 174537,
+      "confidence": 0.99996734,
+      "speaker": "B"
+    },
+    {
+      "text": "seller",
+      "start": 174553,
+      "end": 174890,
+      "confidence": 0.99998486,
+      "speaker": "B"
+    },
+    {
+      "text": "today.",
+      "start": 174890,
+      "end": 175051,
+      "confidence": 0.99996394,
+      "speaker": "B"
+    },
+    {
+      "text": "If",
+      "start": 175630,
+      "end": 175758,
+      "confidence": 0.9998647,
+      "speaker": "B"
+    },
+    {
+      "text": "everything",
+      "start": 175855,
+      "end": 176224,
+      "confidence": 0.9999938,
+      "speaker": "B"
+    },
+    {
+      "text": "checks",
+      "start": 176256,
+      "end": 176642,
+      "confidence": 0.99999714,
+      "speaker": "B"
+    },
+    {
+      "text": "out,",
+      "start": 176642,
+      "end": 176819,
+      "confidence": 0.99999565,
+      "speaker": "B"
+    },
+    {
+      "text": "this",
+      "start": 177221,
+      "end": 177381,
+      "confidence": 0.9999528,
+      "speaker": "B"
+    },
+    {
+      "text": "could",
+      "start": 177381,
+      "end": 177526,
+      "confidence": 0.999992,
+      "speaker": "B"
+    },
+    {
+      "text": "be",
+      "start": 177542,
+      "end": 177687,
+      "confidence": 0.99997795,
+      "speaker": "B"
+    },
+    {
+      "text": "a",
+      "start": 177687,
+      "end": 177703,
+      "confidence": 0.99999046,
+      "speaker": "B"
+    },
+    {
+      "text": "very",
+      "start": 177703,
+      "end": 178072,
+      "confidence": 0.9999776,
+      "speaker": "B"
+    },
+    {
+      "text": "good",
+      "start": 178104,
+      "end": 178265,
+      "confidence": 0.99996376,
+      "speaker": "B"
+    },
+    {
+      "text": "opportunity",
+      "start": 178265,
+      "end": 178876,
+      "confidence": 0.9999827,
+      "speaker": "B"
+    },
+    {
+      "text": "for",
+      "start": 178892,
+      "end": 179053,
+      "confidence": 0.9999647,
+      "speaker": "B"
+    },
+    {
+      "text": "your",
+      "start": 179053,
+      "end": 179117,
+      "confidence": 0.9999647,
+      "speaker": "B"
+    },
+    {
+      "text": "family.",
+      "start": 179149,
+      "end": 179519,
+      "confidence": 0.9986132,
+      "speaker": "B"
+    },
+    {
+      "text": "Let's",
+      "start": 180178,
+      "end": 180338,
+      "confidence": 0.9999261,
+      "speaker": "A"
+    },
+    {
+      "text": "see",
+      "start": 180338,
+      "end": 180499,
+      "confidence": 0.99999535,
+      "speaker": "A"
+    },
+    {
+      "text": "what",
+      "start": 180499,
+      "end": 180660,
+      "confidence": 0.99999297,
+      "speaker": "A"
+    },
+    {
+      "text": "the",
+      "start": 180660,
+      "end": 180740,
+      "confidence": 0.99999595,
+      "speaker": "A"
+    },
+    {
+      "text": "inspection",
+      "start": 180740,
+      "end": 181206,
+      "confidence": 0.9999826,
+      "speaker": "A"
+    },
+    {
+      "text": "says",
+      "start": 181302,
+      "end": 181527,
+      "confidence": 0.9999819,
+      "speaker": "A"
+    },
+    {
+      "text": "first.",
+      "start": 181640,
+      "end": 181881,
+      "confidence": 0.99833304,
+      "speaker": "A"
+    },
+    {
+      "text": "Fair",
+      "start": 182630,
+      "end": 182743,
+      "confidence": 0.99998856,
+      "speaker": "B"
+    },
+    {
+      "text": "enough.",
+      "start": 182743,
+      "end": 182969,
+      "confidence": 0.99920684,
+      "speaker": "B"
+    },
+    {
+      "text": "I'll",
+      "start": 183245,
+      "end": 183585,
+      "confidence": 0.9999612,
+      "speaker": "B"
+    },
+    {
+      "text": "coordinate",
+      "start": 183633,
+      "end": 184216,
+      "confidence": 0.9999937,
+      "speaker": "B"
+    },
+    {
+      "text": "everything",
+      "start": 184281,
+      "end": 184653,
+      "confidence": 0.9999932,
+      "speaker": "B"
+    },
+    {
+      "text": "and",
+      "start": 185010,
+      "end": 185074,
+      "confidence": 0.99989426,
+      "speaker": "B"
+    },
+    {
+      "text": "keep",
+      "start": 185090,
+      "end": 185317,
+      "confidence": 0.99998736,
+      "speaker": "B"
+    },
+    {
+      "text": "you",
+      "start": 185317,
+      "end": 185382,
+      "confidence": 0.99998426,
+      "speaker": "B"
+    },
+    {
+      "text": "updated.",
+      "start": 185430,
+      "end": 185868,
+      "confidence": 0.9995684,
+      "speaker": "B"
+    }
+  ],
+  "utterances": [
+    {
+      "speaker": "A",
+      "text": "Welcome!",
+      "confidence": 0.9872157,
+      "start": 400,
+      "end": 755,
+      "words": [
+        {
+          "text": "Welcome!",
+          "start": 400,
+          "end": 755,
+          "confidence": 0.9748903,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "Thanks for coming to see the property. As you can see, this is a 3-bedroom house in a quiet neighborhood, with a spacious living room, modern kitchen, 2 bathrooms, and a small backyard.",
+      "confidence": 0.99979895,
+      "start": 901,
+      "end": 11686,
+      "words": [
+        {
+          "text": "Thanks",
+          "start": 901,
+          "end": 1063,
+          "confidence": 0.9997559,
+          "speaker": "B"
+        },
+        {
+          "text": "for",
+          "start": 1063,
+          "end": 1144,
+          "confidence": 0.9999963,
+          "speaker": "B"
+        },
+        {
+          "text": "coming",
+          "start": 1160,
+          "end": 1402,
+          "confidence": 0.999997,
+          "speaker": "B"
+        },
+        {
+          "text": "to",
+          "start": 1402,
+          "end": 1499,
+          "confidence": 0.99998593,
+          "speaker": "B"
+        },
+        {
+          "text": "see",
+          "start": 1499,
+          "end": 1710,
+          "confidence": 0.99999607,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 1710,
+          "end": 1807,
+          "confidence": 0.9999608,
+          "speaker": "B"
+        },
+        {
+          "text": "property.",
+          "start": 1807,
+          "end": 2211,
+          "confidence": 0.9996975,
+          "speaker": "B"
+        },
+        {
+          "text": "As",
+          "start": 2761,
+          "end": 2826,
+          "confidence": 0.9997359,
+          "speaker": "B"
+        },
+        {
+          "text": "you",
+          "start": 2842,
+          "end": 2939,
+          "confidence": 0.999998,
+          "speaker": "B"
+        },
+        {
+          "text": "can",
+          "start": 2939,
+          "end": 3101,
+          "confidence": 0.9999988,
+          "speaker": "B"
+        },
+        {
+          "text": "see,",
+          "start": 3101,
+          "end": 3505,
+          "confidence": 0.9999967,
+          "speaker": "B"
+        },
+        {
+          "text": "this",
+          "start": 3974,
+          "end": 4039,
+          "confidence": 0.9999801,
+          "speaker": "B"
+        },
+        {
+          "text": "is",
+          "start": 4152,
+          "end": 4201,
+          "confidence": 0.9999932,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 4298,
+          "end": 4314,
+          "confidence": 0.9999969,
+          "speaker": "B"
+        },
+        {
+          "text": "3-bedroom",
+          "start": 4314,
+          "end": 5010,
+          "confidence": 0.99814516,
+          "speaker": "B"
+        },
+        {
+          "text": "house",
+          "start": 5107,
+          "end": 5511,
+          "confidence": 0.9999738,
+          "speaker": "B"
+        },
+        {
+          "text": "in",
+          "start": 5527,
+          "end": 5608,
+          "confidence": 0.999956,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 5608,
+          "end": 5689,
+          "confidence": 0.9999964,
+          "speaker": "B"
+        },
+        {
+          "text": "quiet",
+          "start": 5689,
+          "end": 6093,
+          "confidence": 0.99999666,
+          "speaker": "B"
+        },
+        {
+          "text": "neighborhood,",
+          "start": 6093,
+          "end": 6627,
+          "confidence": 0.9965183,
+          "speaker": "B"
+        },
+        {
+          "text": "with",
+          "start": 6983,
+          "end": 7080,
+          "confidence": 0.99998784,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 7080,
+          "end": 7145,
+          "confidence": 0.99999464,
+          "speaker": "B"
+        },
+        {
+          "text": "spacious",
+          "start": 7145,
+          "end": 7662,
+          "confidence": 0.9999989,
+          "speaker": "B"
+        },
+        {
+          "text": "living",
+          "start": 7856,
+          "end": 8018,
+          "confidence": 0.99999726,
+          "speaker": "B"
+        },
+        {
+          "text": "room,",
+          "start": 8115,
+          "end": 8309,
+          "confidence": 0.9999947,
+          "speaker": "B"
+        },
+        {
+          "text": "modern",
+          "start": 8665,
+          "end": 8989,
+          "confidence": 0.9998447,
+          "speaker": "B"
+        },
+        {
+          "text": "kitchen,",
+          "start": 9005,
+          "end": 9312,
+          "confidence": 0.9999972,
+          "speaker": "B"
+        },
+        {
+          "text": "2",
+          "start": 9620,
+          "end": 9668,
+          "confidence": 0.99999285,
+          "speaker": "B"
+        },
+        {
+          "text": "bathrooms,",
+          "start": 9733,
+          "end": 10352,
+          "confidence": 0.9999652,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 10710,
+          "end": 10775,
+          "confidence": 0.9999852,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 10791,
+          "end": 10808,
+          "confidence": 0.99999416,
+          "speaker": "B"
+        },
+        {
+          "text": "small",
+          "start": 10808,
+          "end": 11068,
+          "confidence": 0.99999547,
+          "speaker": "B"
+        },
+        {
+          "text": "backyard.",
+          "start": 11117,
+          "end": 11686,
+          "confidence": 0.99994165,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "I like the layout. It feels much bigger than it looked in the pictures.",
+      "confidence": 0.997837,
+      "start": 11686,
+      "end": 15967,
+      "words": [
+        {
+          "text": "I",
+          "start": 12321,
+          "end": 12419,
+          "confidence": 0.99963677,
+          "speaker": "A"
+        },
+        {
+          "text": "like",
+          "start": 12419,
+          "end": 12663,
+          "confidence": 0.999979,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 12663,
+          "end": 12761,
+          "confidence": 0.99999607,
+          "speaker": "A"
+        },
+        {
+          "text": "layout.",
+          "start": 12761,
+          "end": 13200,
+          "confidence": 0.9792691,
+          "speaker": "A"
+        },
+        {
+          "text": "It",
+          "start": 13786,
+          "end": 13884,
+          "confidence": 0.99968505,
+          "speaker": "A"
+        },
+        {
+          "text": "feels",
+          "start": 13884,
+          "end": 14176,
+          "confidence": 0.99999213,
+          "speaker": "A"
+        },
+        {
+          "text": "much",
+          "start": 14274,
+          "end": 14421,
+          "confidence": 0.99998224,
+          "speaker": "A"
+        },
+        {
+          "text": "bigger",
+          "start": 14600,
+          "end": 14909,
+          "confidence": 0.9999877,
+          "speaker": "A"
+        },
+        {
+          "text": "than",
+          "start": 14925,
+          "end": 14990,
+          "confidence": 0.99999535,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 15023,
+          "end": 15072,
+          "confidence": 0.9999881,
+          "speaker": "A"
+        },
+        {
+          "text": "looked",
+          "start": 15169,
+          "end": 15365,
+          "confidence": 0.9999732,
+          "speaker": "A"
+        },
+        {
+          "text": "in",
+          "start": 15365,
+          "end": 15430,
+          "confidence": 0.99996054,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 15430,
+          "end": 15511,
+          "confidence": 0.9999883,
+          "speaker": "A"
+        },
+        {
+          "text": "pictures.",
+          "start": 15511,
+          "end": 15967,
+          "confidence": 0.9894247,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "C",
+      "text": "It does, but our main concern is the price. You mentioned \u20b91.2 crore?",
+      "confidence": 0.9894872,
+      "start": 15967,
+      "end": 21678,
+      "words": [
+        {
+          "text": "It",
+          "start": 16572,
+          "end": 16652,
+          "confidence": 0.9994723,
+          "speaker": "C"
+        },
+        {
+          "text": "does,",
+          "start": 16652,
+          "end": 16942,
+          "confidence": 0.9960852,
+          "speaker": "C"
+        },
+        {
+          "text": "but",
+          "start": 17280,
+          "end": 17442,
+          "confidence": 0.9999809,
+          "speaker": "C"
+        },
+        {
+          "text": "our",
+          "start": 17442,
+          "end": 17506,
+          "confidence": 0.99995255,
+          "speaker": "C"
+        },
+        {
+          "text": "main",
+          "start": 17538,
+          "end": 17748,
+          "confidence": 0.9999932,
+          "speaker": "C"
+        },
+        {
+          "text": "concern",
+          "start": 17780,
+          "end": 18134,
+          "confidence": 0.99999833,
+          "speaker": "C"
+        },
+        {
+          "text": "is",
+          "start": 18247,
+          "end": 18311,
+          "confidence": 0.9999932,
+          "speaker": "C"
+        },
+        {
+          "text": "the",
+          "start": 18344,
+          "end": 18424,
+          "confidence": 0.9999913,
+          "speaker": "C"
+        },
+        {
+          "text": "price.",
+          "start": 18489,
+          "end": 18779,
+          "confidence": 0.9997955,
+          "speaker": "C"
+        },
+        {
+          "text": "You",
+          "start": 20019,
+          "end": 20083,
+          "confidence": 0.9981856,
+          "speaker": "C"
+        },
+        {
+          "text": "mentioned",
+          "start": 20116,
+          "end": 20583,
+          "confidence": 0.99999297,
+          "speaker": "C"
+        },
+        {
+          "text": "\u20b91.2",
+          "start": 20583,
+          "end": 21324,
+          "confidence": 0.9715312,
+          "speaker": "C"
+        },
+        {
+          "text": "crore?",
+          "start": 21324,
+          "end": 21678,
+          "confidence": 0.9973642,
+          "speaker": "C"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "Yes, the asking price is \u20b91.2 crore. But I'd like you to look at it as more than just a house. This area has developed significantly over the last few years. There are schools, shopping centers, hospitals, and public transport nearby, and a new commercial complex is being developed about 2 kilometers from here.",
+      "confidence": 0.9960717,
+      "start": 21678,
+      "end": 42417,
+      "words": [
+        {
+          "text": "Yes,",
+          "start": 23346,
+          "end": 23542,
+          "confidence": 0.98121244,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 24164,
+          "end": 24311,
+          "confidence": 0.9998733,
+          "speaker": "B"
+        },
+        {
+          "text": "asking",
+          "start": 24311,
+          "end": 24622,
+          "confidence": 0.9999914,
+          "speaker": "B"
+        },
+        {
+          "text": "price",
+          "start": 24655,
+          "end": 25097,
+          "confidence": 0.99999726,
+          "speaker": "B"
+        },
+        {
+          "text": "is",
+          "start": 25146,
+          "end": 25244,
+          "confidence": 0.99999106,
+          "speaker": "B"
+        },
+        {
+          "text": "\u20b91.2",
+          "start": 25375,
+          "end": 26030,
+          "confidence": 0.9999921,
+          "speaker": "B"
+        },
+        {
+          "text": "crore.",
+          "start": 26111,
+          "end": 26455,
+          "confidence": 0.9683423,
+          "speaker": "B"
+        },
+        {
+          "text": "But",
+          "start": 27212,
+          "end": 27324,
+          "confidence": 0.886333,
+          "speaker": "B"
+        },
+        {
+          "text": "I'd",
+          "start": 27356,
+          "end": 27420,
+          "confidence": 0.9999058,
+          "speaker": "B"
+        },
+        {
+          "text": "like",
+          "start": 27436,
+          "end": 27597,
+          "confidence": 0.9999962,
+          "speaker": "B"
+        },
+        {
+          "text": "you",
+          "start": 27597,
+          "end": 27693,
+          "confidence": 0.99999654,
+          "speaker": "B"
+        },
+        {
+          "text": "to",
+          "start": 27693,
+          "end": 27774,
+          "confidence": 0.99999785,
+          "speaker": "B"
+        },
+        {
+          "text": "look",
+          "start": 27838,
+          "end": 28014,
+          "confidence": 0.9999801,
+          "speaker": "B"
+        },
+        {
+          "text": "at",
+          "start": 28014,
+          "end": 28175,
+          "confidence": 0.9999962,
+          "speaker": "B"
+        },
+        {
+          "text": "it",
+          "start": 28175,
+          "end": 28239,
+          "confidence": 0.9999962,
+          "speaker": "B"
+        },
+        {
+          "text": "as",
+          "start": 28496,
+          "end": 28625,
+          "confidence": 0.99565506,
+          "speaker": "B"
+        },
+        {
+          "text": "more",
+          "start": 28657,
+          "end": 28849,
+          "confidence": 0.9999888,
+          "speaker": "B"
+        },
+        {
+          "text": "than",
+          "start": 28882,
+          "end": 29026,
+          "confidence": 0.999995,
+          "speaker": "B"
+        },
+        {
+          "text": "just",
+          "start": 29042,
+          "end": 29235,
+          "confidence": 0.999998,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 29299,
+          "end": 29363,
+          "confidence": 0.99999535,
+          "speaker": "B"
+        },
+        {
+          "text": "house.",
+          "start": 29363,
+          "end": 29588,
+          "confidence": 0.999966,
+          "speaker": "B"
+        },
+        {
+          "text": "This",
+          "start": 30262,
+          "end": 30375,
+          "confidence": 0.99978846,
+          "speaker": "B"
+        },
+        {
+          "text": "area",
+          "start": 30503,
+          "end": 30824,
+          "confidence": 0.99999857,
+          "speaker": "B"
+        },
+        {
+          "text": "has",
+          "start": 30824,
+          "end": 30953,
+          "confidence": 0.9999937,
+          "speaker": "B"
+        },
+        {
+          "text": "developed",
+          "start": 30985,
+          "end": 31402,
+          "confidence": 0.99999833,
+          "speaker": "B"
+        },
+        {
+          "text": "significantly",
+          "start": 31402,
+          "end": 32237,
+          "confidence": 0.9999982,
+          "speaker": "B"
+        },
+        {
+          "text": "over",
+          "start": 32494,
+          "end": 32607,
+          "confidence": 0.99998677,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 32607,
+          "end": 32735,
+          "confidence": 0.99998724,
+          "speaker": "B"
+        },
+        {
+          "text": "last",
+          "start": 32751,
+          "end": 33056,
+          "confidence": 0.9999541,
+          "speaker": "B"
+        },
+        {
+          "text": "few",
+          "start": 33056,
+          "end": 33233,
+          "confidence": 0.99999225,
+          "speaker": "B"
+        },
+        {
+          "text": "years.",
+          "start": 33233,
+          "end": 33442,
+          "confidence": 0.99993736,
+          "speaker": "B"
+        },
+        {
+          "text": "There",
+          "start": 34036,
+          "end": 34164,
+          "confidence": 0.9998883,
+          "speaker": "B"
+        },
+        {
+          "text": "are",
+          "start": 34212,
+          "end": 34260,
+          "confidence": 0.9999391,
+          "speaker": "B"
+        },
+        {
+          "text": "schools,",
+          "start": 34277,
+          "end": 34726,
+          "confidence": 0.999997,
+          "speaker": "B"
+        },
+        {
+          "text": "shopping",
+          "start": 35063,
+          "end": 35449,
+          "confidence": 0.99999285,
+          "speaker": "B"
+        },
+        {
+          "text": "centers,",
+          "start": 35481,
+          "end": 35930,
+          "confidence": 0.9961196,
+          "speaker": "B"
+        },
+        {
+          "text": "hospitals,",
+          "start": 36268,
+          "end": 36813,
+          "confidence": 0.9931187,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 37006,
+          "end": 37070,
+          "confidence": 0.99998415,
+          "speaker": "B"
+        },
+        {
+          "text": "public",
+          "start": 37151,
+          "end": 37472,
+          "confidence": 0.9999987,
+          "speaker": "B"
+        },
+        {
+          "text": "transport",
+          "start": 37472,
+          "end": 37970,
+          "confidence": 0.9999745,
+          "speaker": "B"
+        },
+        {
+          "text": "nearby,",
+          "start": 37970,
+          "end": 38323,
+          "confidence": 0.99710435,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 38853,
+          "end": 38917,
+          "confidence": 0.9999231,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 38933,
+          "end": 38949,
+          "confidence": 0.9999875,
+          "speaker": "B"
+        },
+        {
+          "text": "new",
+          "start": 38949,
+          "end": 39110,
+          "confidence": 0.9999857,
+          "speaker": "B"
+        },
+        {
+          "text": "commercial",
+          "start": 39158,
+          "end": 39543,
+          "confidence": 0.99999607,
+          "speaker": "B"
+        },
+        {
+          "text": "complex",
+          "start": 39575,
+          "end": 40153,
+          "confidence": 0.9999975,
+          "speaker": "B"
+        },
+        {
+          "text": "is",
+          "start": 40153,
+          "end": 40234,
+          "confidence": 0.9999491,
+          "speaker": "B"
+        },
+        {
+          "text": "being",
+          "start": 40298,
+          "end": 40442,
+          "confidence": 0.9999969,
+          "speaker": "B"
+        },
+        {
+          "text": "developed",
+          "start": 40539,
+          "end": 41004,
+          "confidence": 0.99999404,
+          "speaker": "B"
+        },
+        {
+          "text": "about",
+          "start": 41004,
+          "end": 41341,
+          "confidence": 0.9999695,
+          "speaker": "B"
+        },
+        {
+          "text": "2",
+          "start": 41341,
+          "end": 41470,
+          "confidence": 0.9999931,
+          "speaker": "B"
+        },
+        {
+          "text": "kilometers",
+          "start": 41502,
+          "end": 42032,
+          "confidence": 0.96960485,
+          "speaker": "B"
+        },
+        {
+          "text": "from",
+          "start": 42128,
+          "end": 42225,
+          "confidence": 0.9999708,
+          "speaker": "B"
+        },
+        {
+          "text": "here.",
+          "start": 42289,
+          "end": 42417,
+          "confidence": 0.9999281,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "C",
+      "text": "That sounds promising, but property prices don't always increase just because an area is developing.",
+      "confidence": 0.99989074,
+      "start": 42417,
+      "end": 48374,
+      "words": [
+        {
+          "text": "That",
+          "start": 43108,
+          "end": 43236,
+          "confidence": 0.9998938,
+          "speaker": "C"
+        },
+        {
+          "text": "sounds",
+          "start": 43284,
+          "end": 43638,
+          "confidence": 0.99998295,
+          "speaker": "C"
+        },
+        {
+          "text": "promising,",
+          "start": 43670,
+          "end": 44119,
+          "confidence": 0.999417,
+          "speaker": "C"
+        },
+        {
+          "text": "but",
+          "start": 44537,
+          "end": 44649,
+          "confidence": 0.9999893,
+          "speaker": "C"
+        },
+        {
+          "text": "property",
+          "start": 44713,
+          "end": 45083,
+          "confidence": 0.9999951,
+          "speaker": "C"
+        },
+        {
+          "text": "prices",
+          "start": 45115,
+          "end": 45532,
+          "confidence": 0.9999907,
+          "speaker": "C"
+        },
+        {
+          "text": "don't",
+          "start": 45596,
+          "end": 45821,
+          "confidence": 0.99999696,
+          "speaker": "C"
+        },
+        {
+          "text": "always",
+          "start": 45902,
+          "end": 46126,
+          "confidence": 0.9999963,
+          "speaker": "C"
+        },
+        {
+          "text": "increase",
+          "start": 46158,
+          "end": 46512,
+          "confidence": 0.99999845,
+          "speaker": "C"
+        },
+        {
+          "text": "just",
+          "start": 46640,
+          "end": 46945,
+          "confidence": 0.9999702,
+          "speaker": "C"
+        },
+        {
+          "text": "because",
+          "start": 46945,
+          "end": 47202,
+          "confidence": 0.999984,
+          "speaker": "C"
+        },
+        {
+          "text": "an",
+          "start": 47202,
+          "end": 47250,
+          "confidence": 0.99997795,
+          "speaker": "C"
+        },
+        {
+          "text": "area",
+          "start": 47427,
+          "end": 47748,
+          "confidence": 0.9999949,
+          "speaker": "C"
+        },
+        {
+          "text": "is",
+          "start": 47764,
+          "end": 47812,
+          "confidence": 0.9999708,
+          "speaker": "C"
+        },
+        {
+          "text": "developing.",
+          "start": 47844,
+          "end": 48374,
+          "confidence": 0.9993277,
+          "speaker": "C"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "Absolutely, and I wouldn't want you to buy based on promises. What I can tell you is that comparable properties nearby are already selling at higher prices. This house also has a larger plot than many of the newer properties being built.",
+      "confidence": 0.99986184,
+      "start": 48374,
+      "end": 62083,
+      "words": [
+        {
+          "text": "Absolutely,",
+          "start": 49595,
+          "end": 50173,
+          "confidence": 0.9990239,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 50494,
+          "end": 50558,
+          "confidence": 0.99996734,
+          "speaker": "B"
+        },
+        {
+          "text": "I",
+          "start": 50574,
+          "end": 50606,
+          "confidence": 0.9999925,
+          "speaker": "B"
+        },
+        {
+          "text": "wouldn't",
+          "start": 50654,
+          "end": 50879,
+          "confidence": 0.9999971,
+          "speaker": "B"
+        },
+        {
+          "text": "want",
+          "start": 50879,
+          "end": 50991,
+          "confidence": 0.99998355,
+          "speaker": "B"
+        },
+        {
+          "text": "you",
+          "start": 50991,
+          "end": 51056,
+          "confidence": 0.99999166,
+          "speaker": "B"
+        },
+        {
+          "text": "to",
+          "start": 51056,
+          "end": 51136,
+          "confidence": 0.9999982,
+          "speaker": "B"
+        },
+        {
+          "text": "buy",
+          "start": 51136,
+          "end": 51361,
+          "confidence": 0.9999924,
+          "speaker": "B"
+        },
+        {
+          "text": "based",
+          "start": 51377,
+          "end": 51618,
+          "confidence": 0.99998736,
+          "speaker": "B"
+        },
+        {
+          "text": "on",
+          "start": 51618,
+          "end": 51762,
+          "confidence": 0.9999896,
+          "speaker": "B"
+        },
+        {
+          "text": "promises.",
+          "start": 51762,
+          "end": 52228,
+          "confidence": 0.9998427,
+          "speaker": "B"
+        },
+        {
+          "text": "What",
+          "start": 52710,
+          "end": 52822,
+          "confidence": 0.99864966,
+          "speaker": "B"
+        },
+        {
+          "text": "I",
+          "start": 52822,
+          "end": 52902,
+          "confidence": 0.9999968,
+          "speaker": "B"
+        },
+        {
+          "text": "can",
+          "start": 52902,
+          "end": 53062,
+          "confidence": 0.99999833,
+          "speaker": "B"
+        },
+        {
+          "text": "tell",
+          "start": 53062,
+          "end": 53238,
+          "confidence": 0.9999968,
+          "speaker": "B"
+        },
+        {
+          "text": "you",
+          "start": 53366,
+          "end": 53431,
+          "confidence": 0.9999976,
+          "speaker": "B"
+        },
+        {
+          "text": "is",
+          "start": 53687,
+          "end": 53751,
+          "confidence": 0.9999925,
+          "speaker": "B"
+        },
+        {
+          "text": "that",
+          "start": 53783,
+          "end": 53911,
+          "confidence": 0.9999964,
+          "speaker": "B"
+        },
+        {
+          "text": "comparable",
+          "start": 53943,
+          "end": 54472,
+          "confidence": 0.99999917,
+          "speaker": "B"
+        },
+        {
+          "text": "properties",
+          "start": 54504,
+          "end": 54953,
+          "confidence": 0.99999833,
+          "speaker": "B"
+        },
+        {
+          "text": "nearby",
+          "start": 54985,
+          "end": 55417,
+          "confidence": 0.9999993,
+          "speaker": "B"
+        },
+        {
+          "text": "are",
+          "start": 55802,
+          "end": 55850,
+          "confidence": 0.9999919,
+          "speaker": "B"
+        },
+        {
+          "text": "already",
+          "start": 56010,
+          "end": 56283,
+          "confidence": 0.9999988,
+          "speaker": "B"
+        },
+        {
+          "text": "selling",
+          "start": 56283,
+          "end": 56683,
+          "confidence": 0.9999975,
+          "speaker": "B"
+        },
+        {
+          "text": "at",
+          "start": 56731,
+          "end": 56795,
+          "confidence": 0.9999964,
+          "speaker": "B"
+        },
+        {
+          "text": "higher",
+          "start": 56812,
+          "end": 57068,
+          "confidence": 0.9999976,
+          "speaker": "B"
+        },
+        {
+          "text": "prices.",
+          "start": 57068,
+          "end": 57517,
+          "confidence": 0.9999744,
+          "speaker": "B"
+        },
+        {
+          "text": "This",
+          "start": 58093,
+          "end": 58206,
+          "confidence": 0.99983287,
+          "speaker": "B"
+        },
+        {
+          "text": "house",
+          "start": 58254,
+          "end": 58574,
+          "confidence": 0.9999957,
+          "speaker": "B"
+        },
+        {
+          "text": "also",
+          "start": 58574,
+          "end": 58879,
+          "confidence": 0.99999785,
+          "speaker": "B"
+        },
+        {
+          "text": "has",
+          "start": 58895,
+          "end": 59039,
+          "confidence": 0.9999981,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 59071,
+          "end": 59215,
+          "confidence": 0.9999969,
+          "speaker": "B"
+        },
+        {
+          "text": "larger",
+          "start": 59215,
+          "end": 59552,
+          "confidence": 0.9999943,
+          "speaker": "B"
+        },
+        {
+          "text": "plot",
+          "start": 59552,
+          "end": 59824,
+          "confidence": 0.9998356,
+          "speaker": "B"
+        },
+        {
+          "text": "than",
+          "start": 60016,
+          "end": 60080,
+          "confidence": 0.99999464,
+          "speaker": "B"
+        },
+        {
+          "text": "many",
+          "start": 60192,
+          "end": 60481,
+          "confidence": 0.99999666,
+          "speaker": "B"
+        },
+        {
+          "text": "of",
+          "start": 60529,
+          "end": 60609,
+          "confidence": 0.9999957,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 60657,
+          "end": 60737,
+          "confidence": 0.9999919,
+          "speaker": "B"
+        },
+        {
+          "text": "newer",
+          "start": 60737,
+          "end": 61058,
+          "confidence": 0.99999464,
+          "speaker": "B"
+        },
+        {
+          "text": "properties",
+          "start": 61058,
+          "end": 61522,
+          "confidence": 0.99999464,
+          "speaker": "B"
+        },
+        {
+          "text": "being",
+          "start": 61554,
+          "end": 61683,
+          "confidence": 0.9999945,
+          "speaker": "B"
+        },
+        {
+          "text": "built.",
+          "start": 61795,
+          "end": 62083,
+          "confidence": 0.9998941,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "What about the condition of the house? Are there any major repairs needed?",
+      "confidence": 0.99994135,
+      "start": 62083,
+      "end": 66089,
+      "words": [
+        {
+          "text": "What",
+          "start": 62676,
+          "end": 62836,
+          "confidence": 0.99974006,
+          "speaker": "A"
+        },
+        {
+          "text": "about",
+          "start": 62836,
+          "end": 63013,
+          "confidence": 0.99999714,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 63061,
+          "end": 63141,
+          "confidence": 0.999997,
+          "speaker": "A"
+        },
+        {
+          "text": "condition",
+          "start": 63141,
+          "end": 63557,
+          "confidence": 0.99999774,
+          "speaker": "A"
+        },
+        {
+          "text": "of",
+          "start": 63557,
+          "end": 63638,
+          "confidence": 0.99999785,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 63638,
+          "end": 63718,
+          "confidence": 0.999998,
+          "speaker": "A"
+        },
+        {
+          "text": "house?",
+          "start": 63718,
+          "end": 64118,
+          "confidence": 0.9999272,
+          "speaker": "A"
+        },
+        {
+          "text": "Are",
+          "start": 64679,
+          "end": 64727,
+          "confidence": 0.9999057,
+          "speaker": "A"
+        },
+        {
+          "text": "there",
+          "start": 64759,
+          "end": 64903,
+          "confidence": 0.99999547,
+          "speaker": "A"
+        },
+        {
+          "text": "any",
+          "start": 64903,
+          "end": 65016,
+          "confidence": 0.9999958,
+          "speaker": "A"
+        },
+        {
+          "text": "major",
+          "start": 65016,
+          "end": 65384,
+          "confidence": 0.9999981,
+          "speaker": "A"
+        },
+        {
+          "text": "repairs",
+          "start": 65384,
+          "end": 65769,
+          "confidence": 0.99999785,
+          "speaker": "A"
+        },
+        {
+          "text": "needed?",
+          "start": 65801,
+          "end": 66089,
+          "confidence": 0.9999897,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "Nothing major that I'm aware of. The electrical system was recently checked, the kitchen was renovated 2 years ago, and the roof was inspected last year. Of course, I recommend getting your own inspection before making a final decision.",
+      "confidence": 0.9999578,
+      "start": 66089,
+      "end": 79629,
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 66666,
+          "end": 66874,
+          "confidence": 0.99997413,
+          "speaker": "B"
+        },
+        {
+          "text": "major",
+          "start": 66922,
+          "end": 67291,
+          "confidence": 0.9999945,
+          "speaker": "B"
+        },
+        {
+          "text": "that",
+          "start": 67307,
+          "end": 67403,
+          "confidence": 0.9999932,
+          "speaker": "B"
+        },
+        {
+          "text": "I'm",
+          "start": 67403,
+          "end": 67547,
+          "confidence": 0.99999845,
+          "speaker": "B"
+        },
+        {
+          "text": "aware",
+          "start": 67547,
+          "end": 67756,
+          "confidence": 0.9999995,
+          "speaker": "B"
+        },
+        {
+          "text": "of.",
+          "start": 67868,
+          "end": 68012,
+          "confidence": 0.99995583,
+          "speaker": "B"
+        },
+        {
+          "text": "The",
+          "start": 68445,
+          "end": 68605,
+          "confidence": 0.9999547,
+          "speaker": "B"
+        },
+        {
+          "text": "electrical",
+          "start": 68605,
+          "end": 69053,
+          "confidence": 0.9999945,
+          "speaker": "B"
+        },
+        {
+          "text": "system",
+          "start": 69086,
+          "end": 69486,
+          "confidence": 0.99999845,
+          "speaker": "B"
+        },
+        {
+          "text": "was",
+          "start": 69486,
+          "end": 69694,
+          "confidence": 0.9999969,
+          "speaker": "B"
+        },
+        {
+          "text": "recently",
+          "start": 69726,
+          "end": 70175,
+          "confidence": 0.9999939,
+          "speaker": "B"
+        },
+        {
+          "text": "checked,",
+          "start": 70207,
+          "end": 70672,
+          "confidence": 0.9998882,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 70912,
+          "end": 70976,
+          "confidence": 0.99999154,
+          "speaker": "B"
+        },
+        {
+          "text": "kitchen",
+          "start": 71008,
+          "end": 71377,
+          "confidence": 0.9999969,
+          "speaker": "B"
+        },
+        {
+          "text": "was",
+          "start": 71393,
+          "end": 71489,
+          "confidence": 0.9999982,
+          "speaker": "B"
+        },
+        {
+          "text": "renovated",
+          "start": 71569,
+          "end": 72098,
+          "confidence": 0.9999926,
+          "speaker": "B"
+        },
+        {
+          "text": "2",
+          "start": 72130,
+          "end": 72402,
+          "confidence": 0.99999714,
+          "speaker": "B"
+        },
+        {
+          "text": "years",
+          "start": 72434,
+          "end": 72691,
+          "confidence": 0.99999833,
+          "speaker": "B"
+        },
+        {
+          "text": "ago,",
+          "start": 72691,
+          "end": 72963,
+          "confidence": 0.9999964,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 73332,
+          "end": 73396,
+          "confidence": 0.9999962,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 73476,
+          "end": 73540,
+          "confidence": 0.99999714,
+          "speaker": "B"
+        },
+        {
+          "text": "roof",
+          "start": 73636,
+          "end": 73877,
+          "confidence": 0.99999845,
+          "speaker": "B"
+        },
+        {
+          "text": "was",
+          "start": 73893,
+          "end": 74021,
+          "confidence": 0.9999964,
+          "speaker": "B"
+        },
+        {
+          "text": "inspected",
+          "start": 74053,
+          "end": 74614,
+          "confidence": 0.9999939,
+          "speaker": "B"
+        },
+        {
+          "text": "last",
+          "start": 74614,
+          "end": 74886,
+          "confidence": 0.99999833,
+          "speaker": "B"
+        },
+        {
+          "text": "year.",
+          "start": 74934,
+          "end": 75046,
+          "confidence": 0.99998534,
+          "speaker": "B"
+        },
+        {
+          "text": "Of",
+          "start": 75655,
+          "end": 75735,
+          "confidence": 0.99995434,
+          "speaker": "B"
+        },
+        {
+          "text": "course,",
+          "start": 75735,
+          "end": 76008,
+          "confidence": 0.9999971,
+          "speaker": "B"
+        },
+        {
+          "text": "I",
+          "start": 76456,
+          "end": 76472,
+          "confidence": 0.9999976,
+          "speaker": "B"
+        },
+        {
+          "text": "recommend",
+          "start": 76520,
+          "end": 77017,
+          "confidence": 0.9999856,
+          "speaker": "B"
+        },
+        {
+          "text": "getting",
+          "start": 77017,
+          "end": 77242,
+          "confidence": 0.99999547,
+          "speaker": "B"
+        },
+        {
+          "text": "your",
+          "start": 77274,
+          "end": 77482,
+          "confidence": 0.99999213,
+          "speaker": "B"
+        },
+        {
+          "text": "own",
+          "start": 77482,
+          "end": 77530,
+          "confidence": 0.9999957,
+          "speaker": "B"
+        },
+        {
+          "text": "inspection",
+          "start": 77594,
+          "end": 78107,
+          "confidence": 0.99999225,
+          "speaker": "B"
+        },
+        {
+          "text": "before",
+          "start": 78219,
+          "end": 78571,
+          "confidence": 0.99999595,
+          "speaker": "B"
+        },
+        {
+          "text": "making",
+          "start": 78620,
+          "end": 78940,
+          "confidence": 0.9999964,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 78940,
+          "end": 79004,
+          "confidence": 0.99999714,
+          "speaker": "B"
+        },
+        {
+          "text": "final",
+          "start": 79004,
+          "end": 79244,
+          "confidence": 0.99999785,
+          "speaker": "B"
+        },
+        {
+          "text": "decision.",
+          "start": 79260,
+          "end": 79629,
+          "confidence": 0.9997735,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "C",
+      "text": "That's good to hear. What about parking?",
+      "confidence": 0.99794936,
+      "start": 80222,
+      "end": 82920,
+      "words": [
+        {
+          "text": "That's",
+          "start": 80222,
+          "end": 80463,
+          "confidence": 0.99981594,
+          "speaker": "C"
+        },
+        {
+          "text": "good",
+          "start": 80463,
+          "end": 80608,
+          "confidence": 0.9999906,
+          "speaker": "C"
+        },
+        {
+          "text": "to",
+          "start": 80624,
+          "end": 80768,
+          "confidence": 0.9999969,
+          "speaker": "C"
+        },
+        {
+          "text": "hear.",
+          "start": 80768,
+          "end": 81025,
+          "confidence": 0.99310493,
+          "speaker": "C"
+        },
+        {
+          "text": "What",
+          "start": 82149,
+          "end": 82262,
+          "confidence": 0.99302965,
+          "speaker": "C"
+        },
+        {
+          "text": "about",
+          "start": 82294,
+          "end": 82503,
+          "confidence": 0.99999595,
+          "speaker": "C"
+        },
+        {
+          "text": "parking?",
+          "start": 82551,
+          "end": 82920,
+          "confidence": 0.9999843,
+          "speaker": "C"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "There's covered parking for 2 cars, plus additional street parking for visitors.",
+      "confidence": 0.9999125,
+      "start": 82920,
+      "end": 88219,
+      "words": [
+        {
+          "text": "There's",
+          "start": 84141,
+          "end": 84317,
+          "confidence": 0.99998915,
+          "speaker": "B"
+        },
+        {
+          "text": "covered",
+          "start": 84317,
+          "end": 84638,
+          "confidence": 0.99998605,
+          "speaker": "B"
+        },
+        {
+          "text": "parking",
+          "start": 84638,
+          "end": 84960,
+          "confidence": 0.999998,
+          "speaker": "B"
+        },
+        {
+          "text": "for",
+          "start": 85024,
+          "end": 85200,
+          "confidence": 0.9999969,
+          "speaker": "B"
+        },
+        {
+          "text": "2",
+          "start": 85200,
+          "end": 85425,
+          "confidence": 0.9999827,
+          "speaker": "B"
+        },
+        {
+          "text": "cars,",
+          "start": 85441,
+          "end": 85811,
+          "confidence": 0.99997765,
+          "speaker": "B"
+        },
+        {
+          "text": "plus",
+          "start": 86164,
+          "end": 86485,
+          "confidence": 0.99996984,
+          "speaker": "B"
+        },
+        {
+          "text": "additional",
+          "start": 86485,
+          "end": 86983,
+          "confidence": 0.9999926,
+          "speaker": "B"
+        },
+        {
+          "text": "street",
+          "start": 86983,
+          "end": 87352,
+          "confidence": 0.99999535,
+          "speaker": "B"
+        },
+        {
+          "text": "parking",
+          "start": 87352,
+          "end": 87657,
+          "confidence": 0.9999981,
+          "speaker": "B"
+        },
+        {
+          "text": "for",
+          "start": 87689,
+          "end": 87850,
+          "confidence": 0.99998736,
+          "speaker": "B"
+        },
+        {
+          "text": "visitors.",
+          "start": 87850,
+          "end": 88219,
+          "confidence": 0.9999875,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "And if we eventually decide to rent it out?",
+      "confidence": 0.9992619,
+      "start": 88219,
+      "end": 90997,
+      "words": [
+        {
+          "text": "And",
+          "start": 89038,
+          "end": 89183,
+          "confidence": 0.9999621,
+          "speaker": "A"
+        },
+        {
+          "text": "if",
+          "start": 89231,
+          "end": 89359,
+          "confidence": 0.9963278,
+          "speaker": "A"
+        },
+        {
+          "text": "we",
+          "start": 89375,
+          "end": 89488,
+          "confidence": 0.99999535,
+          "speaker": "A"
+        },
+        {
+          "text": "eventually",
+          "start": 89520,
+          "end": 89986,
+          "confidence": 0.9999908,
+          "speaker": "A"
+        },
+        {
+          "text": "decide",
+          "start": 90018,
+          "end": 90403,
+          "confidence": 0.9999925,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 90403,
+          "end": 90564,
+          "confidence": 0.99999535,
+          "speaker": "A"
+        },
+        {
+          "text": "rent",
+          "start": 90564,
+          "end": 90740,
+          "confidence": 0.9999968,
+          "speaker": "A"
+        },
+        {
+          "text": "it",
+          "start": 90740,
+          "end": 90821,
+          "confidence": 0.9999951,
+          "speaker": "A"
+        },
+        {
+          "text": "out?",
+          "start": 90885,
+          "end": 90997,
+          "confidence": 0.99994636,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "That's another advantage. A 3-bedroom house in this neighborhood could appeal to families or professionals looking for more space. You could live here now and potentially rent it out later. The property gives you flexibility.",
+      "confidence": 0.99874496,
+      "start": 90997,
+      "end": 103876,
+      "words": [
+        {
+          "text": "That's",
+          "start": 91543,
+          "end": 91784,
+          "confidence": 0.99999124,
+          "speaker": "B"
+        },
+        {
+          "text": "another",
+          "start": 91784,
+          "end": 92025,
+          "confidence": 0.99999714,
+          "speaker": "B"
+        },
+        {
+          "text": "advantage.",
+          "start": 92041,
+          "end": 92555,
+          "confidence": 0.9987874,
+          "speaker": "B"
+        },
+        {
+          "text": "A",
+          "start": 93133,
+          "end": 93165,
+          "confidence": 0.9999206,
+          "speaker": "B"
+        },
+        {
+          "text": "3-bedroom",
+          "start": 93165,
+          "end": 93775,
+          "confidence": 0.99859786,
+          "speaker": "B"
+        },
+        {
+          "text": "house",
+          "start": 93775,
+          "end": 94112,
+          "confidence": 0.9999918,
+          "speaker": "B"
+        },
+        {
+          "text": "in",
+          "start": 94112,
+          "end": 94193,
+          "confidence": 0.99999666,
+          "speaker": "B"
+        },
+        {
+          "text": "this",
+          "start": 94193,
+          "end": 94321,
+          "confidence": 0.99999726,
+          "speaker": "B"
+        },
+        {
+          "text": "neighborhood",
+          "start": 94418,
+          "end": 94883,
+          "confidence": 0.99745923,
+          "speaker": "B"
+        },
+        {
+          "text": "could",
+          "start": 95060,
+          "end": 95237,
+          "confidence": 0.99998486,
+          "speaker": "B"
+        },
+        {
+          "text": "appeal",
+          "start": 95237,
+          "end": 95574,
+          "confidence": 0.9999968,
+          "speaker": "B"
+        },
+        {
+          "text": "to",
+          "start": 95638,
+          "end": 95766,
+          "confidence": 0.99999714,
+          "speaker": "B"
+        },
+        {
+          "text": "families",
+          "start": 95782,
+          "end": 96328,
+          "confidence": 0.9999969,
+          "speaker": "B"
+        },
+        {
+          "text": "or",
+          "start": 96618,
+          "end": 96698,
+          "confidence": 0.99987435,
+          "speaker": "B"
+        },
+        {
+          "text": "professionals",
+          "start": 96746,
+          "end": 97372,
+          "confidence": 0.9999976,
+          "speaker": "B"
+        },
+        {
+          "text": "looking",
+          "start": 97485,
+          "end": 97693,
+          "confidence": 0.99999,
+          "speaker": "B"
+        },
+        {
+          "text": "for",
+          "start": 97725,
+          "end": 97854,
+          "confidence": 0.9999976,
+          "speaker": "B"
+        },
+        {
+          "text": "more",
+          "start": 97854,
+          "end": 98063,
+          "confidence": 0.99999833,
+          "speaker": "B"
+        },
+        {
+          "text": "space.",
+          "start": 98063,
+          "end": 98416,
+          "confidence": 0.99999255,
+          "speaker": "B"
+        },
+        {
+          "text": "You",
+          "start": 99074,
+          "end": 99171,
+          "confidence": 0.9999114,
+          "speaker": "B"
+        },
+        {
+          "text": "could",
+          "start": 99171,
+          "end": 99331,
+          "confidence": 0.9999937,
+          "speaker": "B"
+        },
+        {
+          "text": "live",
+          "start": 99331,
+          "end": 99556,
+          "confidence": 0.99999464,
+          "speaker": "B"
+        },
+        {
+          "text": "here",
+          "start": 99556,
+          "end": 99668,
+          "confidence": 0.99999547,
+          "speaker": "B"
+        },
+        {
+          "text": "now",
+          "start": 99701,
+          "end": 99909,
+          "confidence": 0.9999938,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 100375,
+          "end": 100439,
+          "confidence": 0.96119815,
+          "speaker": "B"
+        },
+        {
+          "text": "potentially",
+          "start": 100455,
+          "end": 100905,
+          "confidence": 0.99999523,
+          "speaker": "B"
+        },
+        {
+          "text": "rent",
+          "start": 101001,
+          "end": 101114,
+          "confidence": 0.99999535,
+          "speaker": "B"
+        },
+        {
+          "text": "it",
+          "start": 101114,
+          "end": 101242,
+          "confidence": 0.99999785,
+          "speaker": "B"
+        },
+        {
+          "text": "out",
+          "start": 101242,
+          "end": 101290,
+          "confidence": 0.99999833,
+          "speaker": "B"
+        },
+        {
+          "text": "later.",
+          "start": 101338,
+          "end": 101595,
+          "confidence": 0.99977887,
+          "speaker": "B"
+        },
+        {
+          "text": "The",
+          "start": 102125,
+          "end": 102190,
+          "confidence": 0.9998591,
+          "speaker": "B"
+        },
+        {
+          "text": "property",
+          "start": 102222,
+          "end": 102671,
+          "confidence": 0.99999297,
+          "speaker": "B"
+        },
+        {
+          "text": "gives",
+          "start": 102864,
+          "end": 103105,
+          "confidence": 0.9999907,
+          "speaker": "B"
+        },
+        {
+          "text": "you",
+          "start": 103105,
+          "end": 103185,
+          "confidence": 0.9999956,
+          "speaker": "B"
+        },
+        {
+          "text": "flexibility.",
+          "start": 103185,
+          "end": 103876,
+          "confidence": 0.9997935,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "C",
+      "text": "We're still concerned about \u20b91.2 crore. We were hoping to stay closer to \u20b91.05 crore.",
+      "confidence": 0.9948459,
+      "start": 103876,
+      "end": 111634,
+      "words": [
+        {
+          "text": "We're",
+          "start": 104534,
+          "end": 104711,
+          "confidence": 0.9679727,
+          "speaker": "C"
+        },
+        {
+          "text": "still",
+          "start": 104711,
+          "end": 105000,
+          "confidence": 0.9999964,
+          "speaker": "C"
+        },
+        {
+          "text": "concerned",
+          "start": 105032,
+          "end": 105514,
+          "confidence": 0.99999475,
+          "speaker": "C"
+        },
+        {
+          "text": "about",
+          "start": 105514,
+          "end": 105706,
+          "confidence": 0.9999969,
+          "speaker": "C"
+        },
+        {
+          "text": "\u20b91.2",
+          "start": 105819,
+          "end": 106557,
+          "confidence": 0.97868717,
+          "speaker": "C"
+        },
+        {
+          "text": "crore.",
+          "start": 106557,
+          "end": 107119,
+          "confidence": 0.9972929,
+          "speaker": "C"
+        },
+        {
+          "text": "We",
+          "start": 108542,
+          "end": 108641,
+          "confidence": 0.99914634,
+          "speaker": "C"
+        },
+        {
+          "text": "were",
+          "start": 108641,
+          "end": 108740,
+          "confidence": 0.999977,
+          "speaker": "C"
+        },
+        {
+          "text": "hoping",
+          "start": 108790,
+          "end": 109104,
+          "confidence": 0.9999908,
+          "speaker": "C"
+        },
+        {
+          "text": "to",
+          "start": 109121,
+          "end": 109203,
+          "confidence": 0.99999785,
+          "speaker": "C"
+        },
+        {
+          "text": "stay",
+          "start": 109203,
+          "end": 109418,
+          "confidence": 0.9999937,
+          "speaker": "C"
+        },
+        {
+          "text": "closer",
+          "start": 109468,
+          "end": 109947,
+          "confidence": 0.9999894,
+          "speaker": "C"
+        },
+        {
+          "text": "to",
+          "start": 109947,
+          "end": 110047,
+          "confidence": 0.99999344,
+          "speaker": "C"
+        },
+        {
+          "text": "\u20b91.05",
+          "start": 110113,
+          "end": 111270,
+          "confidence": 0.97887254,
+          "speaker": "C"
+        },
+        {
+          "text": "crore.",
+          "start": 111270,
+          "end": 111634,
+          "confidence": 0.999253,
+          "speaker": "C"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "I understand. \u20b91.05 crore would be quite a significant reduction. However, if you're serious and can move quickly, I may be able to negotiate with the seller.",
+      "confidence": 0.9999283,
+      "start": 111634,
+      "end": 123390,
+      "words": [
+        {
+          "text": "I",
+          "start": 113184,
+          "end": 113232,
+          "confidence": 0.99993575,
+          "speaker": "B"
+        },
+        {
+          "text": "understand.",
+          "start": 113264,
+          "end": 113766,
+          "confidence": 0.998995,
+          "speaker": "B"
+        },
+        {
+          "text": "\u20b91.05",
+          "start": 114300,
+          "end": 115367,
+          "confidence": 0.99995023,
+          "speaker": "B"
+        },
+        {
+          "text": "crore",
+          "start": 115367,
+          "end": 115642,
+          "confidence": 0.9999957,
+          "speaker": "B"
+        },
+        {
+          "text": "would",
+          "start": 116321,
+          "end": 116402,
+          "confidence": 0.9999645,
+          "speaker": "B"
+        },
+        {
+          "text": "be",
+          "start": 116418,
+          "end": 116580,
+          "confidence": 0.999998,
+          "speaker": "B"
+        },
+        {
+          "text": "quite",
+          "start": 116580,
+          "end": 116904,
+          "confidence": 0.9999963,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 116904,
+          "end": 116920,
+          "confidence": 0.99999845,
+          "speaker": "B"
+        },
+        {
+          "text": "significant",
+          "start": 116920,
+          "end": 117631,
+          "confidence": 0.99999857,
+          "speaker": "B"
+        },
+        {
+          "text": "reduction.",
+          "start": 117631,
+          "end": 118003,
+          "confidence": 0.99994713,
+          "speaker": "B"
+        },
+        {
+          "text": "However,",
+          "start": 118586,
+          "end": 118877,
+          "confidence": 0.99998766,
+          "speaker": "B"
+        },
+        {
+          "text": "if",
+          "start": 119346,
+          "end": 119427,
+          "confidence": 0.99999833,
+          "speaker": "B"
+        },
+        {
+          "text": "you're",
+          "start": 119475,
+          "end": 119572,
+          "confidence": 0.9999957,
+          "speaker": "B"
+        },
+        {
+          "text": "serious",
+          "start": 119572,
+          "end": 120090,
+          "confidence": 0.9999957,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 120381,
+          "end": 120446,
+          "confidence": 0.9999614,
+          "speaker": "B"
+        },
+        {
+          "text": "can",
+          "start": 120462,
+          "end": 120624,
+          "confidence": 0.9999912,
+          "speaker": "B"
+        },
+        {
+          "text": "move",
+          "start": 120624,
+          "end": 120834,
+          "confidence": 0.9999976,
+          "speaker": "B"
+        },
+        {
+          "text": "quickly,",
+          "start": 120850,
+          "end": 121238,
+          "confidence": 0.99999815,
+          "speaker": "B"
+        },
+        {
+          "text": "I",
+          "start": 121659,
+          "end": 121691,
+          "confidence": 0.9999895,
+          "speaker": "B"
+        },
+        {
+          "text": "may",
+          "start": 121691,
+          "end": 121837,
+          "confidence": 0.99999344,
+          "speaker": "B"
+        },
+        {
+          "text": "be",
+          "start": 121901,
+          "end": 122063,
+          "confidence": 0.9999987,
+          "speaker": "B"
+        },
+        {
+          "text": "able",
+          "start": 122063,
+          "end": 122225,
+          "confidence": 0.9999987,
+          "speaker": "B"
+        },
+        {
+          "text": "to",
+          "start": 122225,
+          "end": 122290,
+          "confidence": 0.99999857,
+          "speaker": "B"
+        },
+        {
+          "text": "negotiate",
+          "start": 122290,
+          "end": 122807,
+          "confidence": 0.9999914,
+          "speaker": "B"
+        },
+        {
+          "text": "with",
+          "start": 122807,
+          "end": 122920,
+          "confidence": 0.9999865,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 122953,
+          "end": 123034,
+          "confidence": 0.99999666,
+          "speaker": "B"
+        },
+        {
+          "text": "seller.",
+          "start": 123034,
+          "end": 123390,
+          "confidence": 0.9999774,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "How much flexibility do you think there is?",
+      "confidence": 0.99981123,
+      "start": 123390,
+      "end": 125849,
+      "words": [
+        {
+          "text": "How",
+          "start": 124085,
+          "end": 124199,
+          "confidence": 0.9999826,
+          "speaker": "A"
+        },
+        {
+          "text": "much",
+          "start": 124199,
+          "end": 124393,
+          "confidence": 0.9999958,
+          "speaker": "A"
+        },
+        {
+          "text": "flexibility",
+          "start": 124506,
+          "end": 125218,
+          "confidence": 0.9999975,
+          "speaker": "A"
+        },
+        {
+          "text": "do",
+          "start": 125218,
+          "end": 125250,
+          "confidence": 0.999995,
+          "speaker": "A"
+        },
+        {
+          "text": "you",
+          "start": 125250,
+          "end": 125380,
+          "confidence": 0.9999988,
+          "speaker": "A"
+        },
+        {
+          "text": "think",
+          "start": 125380,
+          "end": 125558,
+          "confidence": 0.9999981,
+          "speaker": "A"
+        },
+        {
+          "text": "there",
+          "start": 125558,
+          "end": 125671,
+          "confidence": 0.99999726,
+          "speaker": "A"
+        },
+        {
+          "text": "is?",
+          "start": 125719,
+          "end": 125849,
+          "confidence": 0.99998313,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "I believe we could potentially get closer to \u20b91.12 crore, depending on the seller's response. I could also ask whether they would include some of the existing appliances.",
+      "confidence": 0.99981135,
+      "start": 125849,
+      "end": 135908,
+      "words": [
+        {
+          "text": "I",
+          "start": 126593,
+          "end": 126609,
+          "confidence": 0.9999877,
+          "speaker": "B"
+        },
+        {
+          "text": "believe",
+          "start": 126609,
+          "end": 126917,
+          "confidence": 0.9999912,
+          "speaker": "B"
+        },
+        {
+          "text": "we",
+          "start": 126933,
+          "end": 127078,
+          "confidence": 0.9999963,
+          "speaker": "B"
+        },
+        {
+          "text": "could",
+          "start": 127078,
+          "end": 127175,
+          "confidence": 0.99999714,
+          "speaker": "B"
+        },
+        {
+          "text": "potentially",
+          "start": 127175,
+          "end": 127790,
+          "confidence": 0.9999988,
+          "speaker": "B"
+        },
+        {
+          "text": "get",
+          "start": 127806,
+          "end": 127984,
+          "confidence": 0.9999964,
+          "speaker": "B"
+        },
+        {
+          "text": "closer",
+          "start": 127984,
+          "end": 128389,
+          "confidence": 0.99997747,
+          "speaker": "B"
+        },
+        {
+          "text": "to",
+          "start": 128389,
+          "end": 128551,
+          "confidence": 0.99999726,
+          "speaker": "B"
+        },
+        {
+          "text": "\u20b91.12",
+          "start": 128632,
+          "end": 129457,
+          "confidence": 0.9999877,
+          "speaker": "B"
+        },
+        {
+          "text": "crore,",
+          "start": 129748,
+          "end": 130088,
+          "confidence": 0.9951946,
+          "speaker": "B"
+        },
+        {
+          "text": "depending",
+          "start": 130832,
+          "end": 131155,
+          "confidence": 0.99999356,
+          "speaker": "B"
+        },
+        {
+          "text": "on",
+          "start": 131204,
+          "end": 131252,
+          "confidence": 0.9999981,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 131285,
+          "end": 131350,
+          "confidence": 0.9999975,
+          "speaker": "B"
+        },
+        {
+          "text": "seller's",
+          "start": 131350,
+          "end": 131626,
+          "confidence": 0.999989,
+          "speaker": "B"
+        },
+        {
+          "text": "response.",
+          "start": 131626,
+          "end": 132082,
+          "confidence": 0.9999966,
+          "speaker": "B"
+        },
+        {
+          "text": "I",
+          "start": 132766,
+          "end": 132798,
+          "confidence": 0.9999249,
+          "speaker": "B"
+        },
+        {
+          "text": "could",
+          "start": 132831,
+          "end": 132945,
+          "confidence": 0.9999887,
+          "speaker": "B"
+        },
+        {
+          "text": "also",
+          "start": 132994,
+          "end": 133222,
+          "confidence": 0.9999987,
+          "speaker": "B"
+        },
+        {
+          "text": "ask",
+          "start": 133319,
+          "end": 133580,
+          "confidence": 0.9999964,
+          "speaker": "B"
+        },
+        {
+          "text": "whether",
+          "start": 133580,
+          "end": 133824,
+          "confidence": 0.9999887,
+          "speaker": "B"
+        },
+        {
+          "text": "they",
+          "start": 133824,
+          "end": 133954,
+          "confidence": 0.99999833,
+          "speaker": "B"
+        },
+        {
+          "text": "would",
+          "start": 133971,
+          "end": 134150,
+          "confidence": 0.9999511,
+          "speaker": "B"
+        },
+        {
+          "text": "include",
+          "start": 134150,
+          "end": 134557,
+          "confidence": 0.9999964,
+          "speaker": "B"
+        },
+        {
+          "text": "some",
+          "start": 134557,
+          "end": 134817,
+          "confidence": 0.9999974,
+          "speaker": "B"
+        },
+        {
+          "text": "of",
+          "start": 134817,
+          "end": 134899,
+          "confidence": 0.99999785,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 134948,
+          "end": 135045,
+          "confidence": 0.9999962,
+          "speaker": "B"
+        },
+        {
+          "text": "existing",
+          "start": 135045,
+          "end": 135485,
+          "confidence": 0.99999774,
+          "speaker": "B"
+        },
+        {
+          "text": "appliances.",
+          "start": 135534,
+          "end": 135908,
+          "confidence": 0.99971443,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "C",
+      "text": "Suppose we offer \u20b91.1 crore and agree to complete the paperwork quickly. Would you take that to the seller?",
+      "confidence": 0.99675596,
+      "start": 136728,
+      "end": 143915,
+      "words": [
+        {
+          "text": "Suppose",
+          "start": 136728,
+          "end": 137161,
+          "confidence": 0.9999211,
+          "speaker": "C"
+        },
+        {
+          "text": "we",
+          "start": 137258,
+          "end": 137418,
+          "confidence": 0.9999944,
+          "speaker": "C"
+        },
+        {
+          "text": "offer",
+          "start": 137418,
+          "end": 137611,
+          "confidence": 0.9999937,
+          "speaker": "C"
+        },
+        {
+          "text": "\u20b91.1",
+          "start": 137739,
+          "end": 138364,
+          "confidence": 0.9474869,
+          "speaker": "C"
+        },
+        {
+          "text": "crore",
+          "start": 138477,
+          "end": 138894,
+          "confidence": 0.9995123,
+          "speaker": "C"
+        },
+        {
+          "text": "and",
+          "start": 139439,
+          "end": 139503,
+          "confidence": 0.9998872,
+          "speaker": "C"
+        },
+        {
+          "text": "agree",
+          "start": 139535,
+          "end": 139840,
+          "confidence": 0.99998677,
+          "speaker": "C"
+        },
+        {
+          "text": "to",
+          "start": 139840,
+          "end": 140001,
+          "confidence": 0.99999917,
+          "speaker": "C"
+        },
+        {
+          "text": "complete",
+          "start": 140001,
+          "end": 140402,
+          "confidence": 0.99999666,
+          "speaker": "C"
+        },
+        {
+          "text": "the",
+          "start": 140402,
+          "end": 140546,
+          "confidence": 0.999992,
+          "speaker": "C"
+        },
+        {
+          "text": "paperwork",
+          "start": 140546,
+          "end": 140963,
+          "confidence": 0.99999964,
+          "speaker": "C"
+        },
+        {
+          "text": "quickly.",
+          "start": 141027,
+          "end": 141412,
+          "confidence": 0.9996408,
+          "speaker": "C"
+        },
+        {
+          "text": "Would",
+          "start": 142567,
+          "end": 142696,
+          "confidence": 0.9998348,
+          "speaker": "C"
+        },
+        {
+          "text": "you",
+          "start": 142728,
+          "end": 142872,
+          "confidence": 0.9999982,
+          "speaker": "C"
+        },
+        {
+          "text": "take",
+          "start": 142872,
+          "end": 143129,
+          "confidence": 0.9999963,
+          "speaker": "C"
+        },
+        {
+          "text": "that",
+          "start": 143129,
+          "end": 143289,
+          "confidence": 0.999997,
+          "speaker": "C"
+        },
+        {
+          "text": "to",
+          "start": 143289,
+          "end": 143385,
+          "confidence": 0.9999956,
+          "speaker": "C"
+        },
+        {
+          "text": "the",
+          "start": 143385,
+          "end": 143530,
+          "confidence": 0.9999976,
+          "speaker": "C"
+        },
+        {
+          "text": "seller?",
+          "start": 143530,
+          "end": 143915,
+          "confidence": 0.99997157,
+          "speaker": "C"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "Absolutely. I can't guarantee they'll accept it, but I can present the offer and explain that you're ready to proceed.",
+      "confidence": 0.9994898,
+      "start": 143915,
+      "end": 151117,
+      "words": [
+        {
+          "text": "Absolutely.",
+          "start": 145118,
+          "end": 145631,
+          "confidence": 0.9901972,
+          "speaker": "B"
+        },
+        {
+          "text": "I",
+          "start": 146160,
+          "end": 146209,
+          "confidence": 0.999936,
+          "speaker": "B"
+        },
+        {
+          "text": "can't",
+          "start": 146241,
+          "end": 146481,
+          "confidence": 0.9999984,
+          "speaker": "B"
+        },
+        {
+          "text": "guarantee",
+          "start": 146481,
+          "end": 146963,
+          "confidence": 0.9999989,
+          "speaker": "B"
+        },
+        {
+          "text": "they'll",
+          "start": 146963,
+          "end": 147123,
+          "confidence": 0.99999493,
+          "speaker": "B"
+        },
+        {
+          "text": "accept",
+          "start": 147123,
+          "end": 147540,
+          "confidence": 0.9999964,
+          "speaker": "B"
+        },
+        {
+          "text": "it,",
+          "start": 147540,
+          "end": 147588,
+          "confidence": 0.99999654,
+          "speaker": "B"
+        },
+        {
+          "text": "but",
+          "start": 148021,
+          "end": 148117,
+          "confidence": 0.9999982,
+          "speaker": "B"
+        },
+        {
+          "text": "I",
+          "start": 148117,
+          "end": 148182,
+          "confidence": 0.9999981,
+          "speaker": "B"
+        },
+        {
+          "text": "can",
+          "start": 148182,
+          "end": 148358,
+          "confidence": 0.9999981,
+          "speaker": "B"
+        },
+        {
+          "text": "present",
+          "start": 148406,
+          "end": 148743,
+          "confidence": 0.9999963,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 148743,
+          "end": 148855,
+          "confidence": 0.99999523,
+          "speaker": "B"
+        },
+        {
+          "text": "offer",
+          "start": 148968,
+          "end": 149208,
+          "confidence": 0.9999964,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 149449,
+          "end": 149529,
+          "confidence": 0.99999523,
+          "speaker": "B"
+        },
+        {
+          "text": "explain",
+          "start": 149545,
+          "end": 149994,
+          "confidence": 0.9999956,
+          "speaker": "B"
+        },
+        {
+          "text": "that",
+          "start": 150026,
+          "end": 150123,
+          "confidence": 0.9999931,
+          "speaker": "B"
+        },
+        {
+          "text": "you're",
+          "start": 150123,
+          "end": 150251,
+          "confidence": 0.9999959,
+          "speaker": "B"
+        },
+        {
+          "text": "ready",
+          "start": 150251,
+          "end": 150476,
+          "confidence": 0.9999981,
+          "speaker": "B"
+        },
+        {
+          "text": "to",
+          "start": 150508,
+          "end": 150588,
+          "confidence": 0.9999975,
+          "speaker": "B"
+        },
+        {
+          "text": "proceed.",
+          "start": 150588,
+          "end": 151117,
+          "confidence": 0.9999892,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "Before we make the offer, I'd like to arrange an independent inspection.",
+      "confidence": 0.9973341,
+      "start": 151117,
+      "end": 155913,
+      "words": [
+        {
+          "text": "Before",
+          "start": 151711,
+          "end": 152096,
+          "confidence": 0.99986637,
+          "speaker": "A"
+        },
+        {
+          "text": "we",
+          "start": 152096,
+          "end": 152208,
+          "confidence": 0.9999958,
+          "speaker": "A"
+        },
+        {
+          "text": "make",
+          "start": 152208,
+          "end": 152433,
+          "confidence": 0.99999595,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 152433,
+          "end": 152561,
+          "confidence": 0.9999782,
+          "speaker": "A"
+        },
+        {
+          "text": "offer,",
+          "start": 152593,
+          "end": 152898,
+          "confidence": 0.9999371,
+          "speaker": "A"
+        },
+        {
+          "text": "I'd",
+          "start": 153459,
+          "end": 153668,
+          "confidence": 0.9999975,
+          "speaker": "A"
+        },
+        {
+          "text": "like",
+          "start": 153700,
+          "end": 153812,
+          "confidence": 0.9999939,
+          "speaker": "A"
+        },
+        {
+          "text": "to",
+          "start": 153876,
+          "end": 154005,
+          "confidence": 0.9999981,
+          "speaker": "A"
+        },
+        {
+          "text": "arrange",
+          "start": 154021,
+          "end": 154486,
+          "confidence": 0.99999416,
+          "speaker": "A"
+        },
+        {
+          "text": "an",
+          "start": 154518,
+          "end": 154566,
+          "confidence": 0.99998224,
+          "speaker": "A"
+        },
+        {
+          "text": "independent",
+          "start": 154823,
+          "end": 155336,
+          "confidence": 0.9999957,
+          "speaker": "A"
+        },
+        {
+          "text": "inspection.",
+          "start": 155336,
+          "end": 155913,
+          "confidence": 0.99997574,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "That's completely reasonable. In fact, I encourage it. If the inspection comes back clean and the seller accepts your offer, You'll have much more confidence in the purchase.",
+      "confidence": 0.9933587,
+      "start": 155913,
+      "end": 165656,
+      "words": [
+        {
+          "text": "That's",
+          "start": 156587,
+          "end": 156764,
+          "confidence": 0.99999213,
+          "speaker": "B"
+        },
+        {
+          "text": "completely",
+          "start": 156764,
+          "end": 157293,
+          "confidence": 0.9999957,
+          "speaker": "B"
+        },
+        {
+          "text": "reasonable.",
+          "start": 157309,
+          "end": 157806,
+          "confidence": 0.9994406,
+          "speaker": "B"
+        },
+        {
+          "text": "In",
+          "start": 158288,
+          "end": 158368,
+          "confidence": 0.99998474,
+          "speaker": "B"
+        },
+        {
+          "text": "fact,",
+          "start": 158368,
+          "end": 158721,
+          "confidence": 0.9999989,
+          "speaker": "B"
+        },
+        {
+          "text": "I",
+          "start": 158993,
+          "end": 159042,
+          "confidence": 0.9999987,
+          "speaker": "B"
+        },
+        {
+          "text": "encourage",
+          "start": 159074,
+          "end": 159491,
+          "confidence": 0.9999734,
+          "speaker": "B"
+        },
+        {
+          "text": "it.",
+          "start": 159491,
+          "end": 159587,
+          "confidence": 0.99974316,
+          "speaker": "B"
+        },
+        {
+          "text": "If",
+          "start": 160068,
+          "end": 160196,
+          "confidence": 0.9999542,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 160196,
+          "end": 160293,
+          "confidence": 0.9999982,
+          "speaker": "B"
+        },
+        {
+          "text": "inspection",
+          "start": 160293,
+          "end": 160822,
+          "confidence": 0.9999938,
+          "speaker": "B"
+        },
+        {
+          "text": "comes",
+          "start": 160854,
+          "end": 161143,
+          "confidence": 0.99999714,
+          "speaker": "B"
+        },
+        {
+          "text": "back",
+          "start": 161175,
+          "end": 161400,
+          "confidence": 0.99999833,
+          "speaker": "B"
+        },
+        {
+          "text": "clean",
+          "start": 161416,
+          "end": 161769,
+          "confidence": 0.99997544,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 162041,
+          "end": 162121,
+          "confidence": 0.9837984,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 162121,
+          "end": 162202,
+          "confidence": 0.99999654,
+          "speaker": "B"
+        },
+        {
+          "text": "seller",
+          "start": 162202,
+          "end": 162555,
+          "confidence": 0.99998856,
+          "speaker": "B"
+        },
+        {
+          "text": "accepts",
+          "start": 162555,
+          "end": 163004,
+          "confidence": 0.9999844,
+          "speaker": "B"
+        },
+        {
+          "text": "your",
+          "start": 163004,
+          "end": 163116,
+          "confidence": 0.99993384,
+          "speaker": "B"
+        },
+        {
+          "text": "offer,",
+          "start": 163164,
+          "end": 163485,
+          "confidence": 0.99849606,
+          "speaker": "B"
+        },
+        {
+          "text": "You'll",
+          "start": 163742,
+          "end": 163904,
+          "confidence": 0.8247264,
+          "speaker": "B"
+        },
+        {
+          "text": "have",
+          "start": 163904,
+          "end": 164083,
+          "confidence": 0.9999944,
+          "speaker": "B"
+        },
+        {
+          "text": "much",
+          "start": 164131,
+          "end": 164277,
+          "confidence": 0.9999764,
+          "speaker": "B"
+        },
+        {
+          "text": "more",
+          "start": 164375,
+          "end": 164488,
+          "confidence": 0.9999932,
+          "speaker": "B"
+        },
+        {
+          "text": "confidence",
+          "start": 164537,
+          "end": 165121,
+          "confidence": 0.99998164,
+          "speaker": "B"
+        },
+        {
+          "text": "in",
+          "start": 165121,
+          "end": 165169,
+          "confidence": 0.999895,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 165202,
+          "end": 165283,
+          "confidence": 0.9999622,
+          "speaker": "B"
+        },
+        {
+          "text": "purchase.",
+          "start": 165283,
+          "end": 165656,
+          "confidence": 0.999664,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "C",
+      "text": "Alright. Let's arrange the inspection and make an offer of \u20b91.1 crore.",
+      "confidence": 0.9848435,
+      "start": 165656,
+      "end": 171480,
+      "words": [
+        {
+          "text": "Alright.",
+          "start": 166483,
+          "end": 166986,
+          "confidence": 0.8633192,
+          "speaker": "C"
+        },
+        {
+          "text": "Let's",
+          "start": 168122,
+          "end": 168365,
+          "confidence": 0.9994627,
+          "speaker": "C"
+        },
+        {
+          "text": "arrange",
+          "start": 168365,
+          "end": 168706,
+          "confidence": 0.99999213,
+          "speaker": "C"
+        },
+        {
+          "text": "the",
+          "start": 168755,
+          "end": 168852,
+          "confidence": 0.99995565,
+          "speaker": "C"
+        },
+        {
+          "text": "inspection",
+          "start": 168852,
+          "end": 169468,
+          "confidence": 0.9999889,
+          "speaker": "C"
+        },
+        {
+          "text": "and",
+          "start": 169501,
+          "end": 169566,
+          "confidence": 0.9999145,
+          "speaker": "C"
+        },
+        {
+          "text": "make",
+          "start": 169582,
+          "end": 169825,
+          "confidence": 0.99998724,
+          "speaker": "C"
+        },
+        {
+          "text": "an",
+          "start": 169825,
+          "end": 169906,
+          "confidence": 0.9999683,
+          "speaker": "C"
+        },
+        {
+          "text": "offer",
+          "start": 169971,
+          "end": 170117,
+          "confidence": 0.9999949,
+          "speaker": "C"
+        },
+        {
+          "text": "of",
+          "start": 170215,
+          "end": 170328,
+          "confidence": 0.9997204,
+          "speaker": "C"
+        },
+        {
+          "text": "\u20b91.1",
+          "start": 170377,
+          "end": 170993,
+          "confidence": 0.94735134,
+          "speaker": "C"
+        },
+        {
+          "text": "crore.",
+          "start": 171107,
+          "end": 171480,
+          "confidence": 0.9982585,
+          "speaker": "C"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "Perfect. I'll contact the seller today. If everything checks out, this could be a very good opportunity for your family.",
+      "confidence": 0.99427474,
+      "start": 171480,
+      "end": 179519,
+      "words": [
+        {
+          "text": "Perfect.",
+          "start": 173042,
+          "end": 173428,
+          "confidence": 0.8842476,
+          "speaker": "B"
+        },
+        {
+          "text": "I'll",
+          "start": 173701,
+          "end": 174007,
+          "confidence": 0.99995136,
+          "speaker": "B"
+        },
+        {
+          "text": "contact",
+          "start": 174007,
+          "end": 174440,
+          "confidence": 0.9999919,
+          "speaker": "B"
+        },
+        {
+          "text": "the",
+          "start": 174473,
+          "end": 174537,
+          "confidence": 0.99996734,
+          "speaker": "B"
+        },
+        {
+          "text": "seller",
+          "start": 174553,
+          "end": 174890,
+          "confidence": 0.99998486,
+          "speaker": "B"
+        },
+        {
+          "text": "today.",
+          "start": 174890,
+          "end": 175051,
+          "confidence": 0.99996394,
+          "speaker": "B"
+        },
+        {
+          "text": "If",
+          "start": 175630,
+          "end": 175758,
+          "confidence": 0.9998647,
+          "speaker": "B"
+        },
+        {
+          "text": "everything",
+          "start": 175855,
+          "end": 176224,
+          "confidence": 0.9999938,
+          "speaker": "B"
+        },
+        {
+          "text": "checks",
+          "start": 176256,
+          "end": 176642,
+          "confidence": 0.99999714,
+          "speaker": "B"
+        },
+        {
+          "text": "out,",
+          "start": 176642,
+          "end": 176819,
+          "confidence": 0.99999565,
+          "speaker": "B"
+        },
+        {
+          "text": "this",
+          "start": 177221,
+          "end": 177381,
+          "confidence": 0.9999528,
+          "speaker": "B"
+        },
+        {
+          "text": "could",
+          "start": 177381,
+          "end": 177526,
+          "confidence": 0.999992,
+          "speaker": "B"
+        },
+        {
+          "text": "be",
+          "start": 177542,
+          "end": 177687,
+          "confidence": 0.99997795,
+          "speaker": "B"
+        },
+        {
+          "text": "a",
+          "start": 177687,
+          "end": 177703,
+          "confidence": 0.99999046,
+          "speaker": "B"
+        },
+        {
+          "text": "very",
+          "start": 177703,
+          "end": 178072,
+          "confidence": 0.9999776,
+          "speaker": "B"
+        },
+        {
+          "text": "good",
+          "start": 178104,
+          "end": 178265,
+          "confidence": 0.99996376,
+          "speaker": "B"
+        },
+        {
+          "text": "opportunity",
+          "start": 178265,
+          "end": 178876,
+          "confidence": 0.9999827,
+          "speaker": "B"
+        },
+        {
+          "text": "for",
+          "start": 178892,
+          "end": 179053,
+          "confidence": 0.9999647,
+          "speaker": "B"
+        },
+        {
+          "text": "your",
+          "start": 179053,
+          "end": 179117,
+          "confidence": 0.9999647,
+          "speaker": "B"
+        },
+        {
+          "text": "family.",
+          "start": 179149,
+          "end": 179519,
+          "confidence": 0.9986132,
+          "speaker": "B"
+        }
+      ]
+    },
+    {
+      "speaker": "A",
+      "text": "Let's see what the inspection says first.",
+      "confidence": 0.99971634,
+      "start": 179519,
+      "end": 181881,
+      "words": [
+        {
+          "text": "Let's",
+          "start": 180178,
+          "end": 180338,
+          "confidence": 0.9999261,
+          "speaker": "A"
+        },
+        {
+          "text": "see",
+          "start": 180338,
+          "end": 180499,
+          "confidence": 0.99999535,
+          "speaker": "A"
+        },
+        {
+          "text": "what",
+          "start": 180499,
+          "end": 180660,
+          "confidence": 0.99999297,
+          "speaker": "A"
+        },
+        {
+          "text": "the",
+          "start": 180660,
+          "end": 180740,
+          "confidence": 0.99999595,
+          "speaker": "A"
+        },
+        {
+          "text": "inspection",
+          "start": 180740,
+          "end": 181206,
+          "confidence": 0.9999826,
+          "speaker": "A"
+        },
+        {
+          "text": "says",
+          "start": 181302,
+          "end": 181527,
+          "confidence": 0.9999819,
+          "speaker": "A"
+        },
+        {
+          "text": "first.",
+          "start": 181640,
+          "end": 181881,
+          "confidence": 0.99833304,
+          "speaker": "A"
+        }
+      ]
+    },
+    {
+      "speaker": "B",
+      "text": "Fair enough. I'll coordinate everything and keep you updated.",
+      "confidence": 0.9998458,
+      "start": 181881,
+      "end": 185868,
+      "words": [
+        {
+          "text": "Fair",
+          "start": 182630,
+          "end": 182743,
+          "confidence": 0.99998856,
+          "speaker": "B"
+        },
+        {
+          "text": "enough.",
+          "start": 182743,
+          "end": 182969,
+          "confidence": 0.99920684,
+          "speaker": "B"
+        },
+        {
+          "text": "I'll",
+          "start": 183245,
+          "end": 183585,
+          "confidence": 0.9999612,
+          "speaker": "B"
+        },
+        {
+          "text": "coordinate",
+          "start": 183633,
+          "end": 184216,
+          "confidence": 0.9999937,
+          "speaker": "B"
+        },
+        {
+          "text": "everything",
+          "start": 184281,
+          "end": 184653,
+          "confidence": 0.9999932,
+          "speaker": "B"
+        },
+        {
+          "text": "and",
+          "start": 185010,
+          "end": 185074,
+          "confidence": 0.99989426,
+          "speaker": "B"
+        },
+        {
+          "text": "keep",
+          "start": 185090,
+          "end": 185317,
+          "confidence": 0.99998736,
+          "speaker": "B"
+        },
+        {
+          "text": "you",
+          "start": 185317,
+          "end": 185382,
+          "confidence": 0.99998426,
+          "speaker": "B"
+        },
+        {
+          "text": "updated.",
+          "start": 185430,
+          "end": 185868,
+          "confidence": 0.9995684,
+          "speaker": "B"
+        }
+      ]
+    }
+  ],
+  "confidence": 0.99788374,
+  "audio_duration": 187,
+  "punctuate": true,
+  "format_text": true,
+  "dual_channel": false,
+  "webhook_url": null,
+  "webhook_status_code": null,
+  "webhook_auth": false,
+  "webhook_auth_header_name": null,
+  "speed_boost": false,
+  "auto_highlights_result": null,
+  "auto_highlights": false,
+  "audio_start_from": null,
+  "audio_end_at": null,
+  "word_boost": [],
+  "boost_param": null,
+  "prompt": null,
+  "keyterms_prompt": [],
+  "filter_profanity": false,
+  "redact_pii": false,
+  "redact_pii_audio": false,
+  "redact_pii_audio_quality": null,
+  "redact_pii_audio_options": null,
+  "redact_pii_policies": null,
+  "redact_pii_sub": null,
+  "redact_static_entities": null,
+  "speaker_labels": true,
+  "speaker_options": {
+    "min_speakers_expected": null,
+    "max_speakers_expected": null,
+    "advanced_speaker_segmentation": true
+  },
+  "content_safety": false,
+  "iab_categories": false,
+  "content_safety_labels": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "iab_categories_result": {
+    "status": "unavailable",
+    "results": [],
+    "summary": {}
+  },
+  "language_detection": false,
+  "language_detection_options": null,
+  "language_detection_results": null,
+  "language_confidence_threshold": null,
+  "language_confidence": null,
+  "custom_spelling": null,
+  "throttled": false,
+  "auto_chapters": false,
+  "summarization": false,
+  "summary_type": null,
+  "summary_model": null,
+  "custom_topics": false,
+  "topics": [],
+  "speech_threshold": null,
+  "speech_model": null,
+  "speech_models": [
+    "universal-3-5-pro"
+  ],
+  "speech_model_used": "universal-3-5-pro",
+  "temperature": null,
+  "remove_audio_tags": "all",
+  "chapters": null,
+  "disfluencies": false,
+  "entity_detection": false,
+  "sentiment_analysis": false,
+  "sentiment_analysis_results": null,
+  "entities": null,
+  "speakers_expected": null,
+  "summary": null,
+  "custom_topics_results": null,
+  "is_deleted": null,
+  "multichannel": null,
+  "project_id": 2007427,
+  "token_id": 2042601
+}

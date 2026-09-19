@@ -1,0 +1,34 @@
+# keys
+.env
+.env.*
+!.env.example
+
+# personal/local Claude Code settings
+.claude/settings.local.json
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# node
+node_modules
+dist
+
+# call audio: sample recordings at the root and everything the pipeline processes
+/*.wav
+/*.mp3
+/*.mp4
+calls/inbox/*
+calls/archive/*
+!calls/inbox/.gitkeep
+!calls/archive/.gitkeep
+
+# runtime state
+server/*.db
+server/models/
+spikes/out/
+
+.DS_Store
+.vscode/*
